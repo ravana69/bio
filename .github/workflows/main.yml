@@ -49,5 +49,5 @@ jobs:
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_pwa: yes
           plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_url: ravana69.github.io
+          plugin_pagespeed_url: ravana69.github.io/songs/
           plugin_traffic: yes
