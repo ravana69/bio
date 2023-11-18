@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1433" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1233" class="">
     <defs>
         <style/>
     </defs>
@@ -2315,7 +2315,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">605d978e</span>
-                            <span class="code">images/Life Stats_files/car.svg</span>
+                            <span class="code">images/Life Stats_files/hand-holding.svg</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
@@ -2326,14 +2326,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 511.819 511.819" enable-background="new 0 0 511.819 511.819"&gt;&lt;path fill="#E14B4B" d="M511.82 272.06v26.48s-8.45 14.88-14.03 17.2H396.5l-7.43-2.32-3.27 7.44H133.05l-.67-.24-11.4-3.95L35 327.82s-2.72-.13-6.63-.64c-10.95-1.42-31.16-5.86-26.37-18.88 0 0-4.56-24.7 0-39.02 0 0 1.4-20 18.57-26.96 17.2-6.96 67.84-20.45 95.72-24.6 0 0 24.62-7.45 35.3-17.2 0 0 24.12-18.03 53.9-31.08 16.04-7.03 33.2-11.17 50.65-12.8 33.74-3.17 107.1-8.05 153.78 3.44 39.66 9.77 65.95 32.17 79.8 47.15 7.6 8.22 11.73 18.96 11.73 30.16v10.04l3.25 11.6c.02 0 7.1 5.12 7.1 13.02z"/&gt;&lt;path fill="#2E3235" d="M132.6 315.9c0 1.58-.08 3.17-.22 4.72l-11.4-3.95L35 327.82s-2.72-.13-6.63-.64c-.8-3.63-1.22-7.4-1.22-11.28 0-29.1 23.6-52.7 52.7-52.7s52.7 23.6 52.7 52.7z"/&gt;&lt;circle cx="79.883" cy="315.9" r="43.072" fill="#3E4347"/&gt;&lt;path fill="#2E3235" d="M388.06 315.7l1-2.3 7.45 2.32h96.95c-.1-29.02-23.65-52.52-52.7-52.52-29.04 0-52.6 23.5-52.7 52.5z"/&gt;&lt;g fill="#3E4347"&gt;&lt;circle cx="440.747" cy="315.9" r="43.072"/&gt;&lt;path d="M287.5 166.65c-8.94.3-14.6.6-14.72.63h-.64c-.9-.02-1.8-.02-2.7-.02-39.04 0-77.96 23.2-97.68 37.02-8.92 6.24-15.92 15.03-20 24.95l124.48-9.94 11.26-52.65zM403.77 174.44c-12.37-5.4-41.82-8.38-83.07-8.38-4.83 0-9.52.05-13.94.1l-4.48 51.04 123.35-9.84c.4-2.3.73-4.5.97-6.5l.02-.16.03-.16c1.3-7.55-12.75-19.92-22.88-26.1z"/&gt;&lt;/g&gt;&lt;g fill="#FFD83B"&gt;&lt;path d="M11.02 261.47s17.13-19.95 36.34-18.45c4.67.37 18.63 6.62-3.2 18.45-6.84 3.7-20.28 5.87-30.5 6.03-8.3.1-2.64-6.03-2.64-6.03zM501.5 247.44V237.4c0-4.35-.8-8.56-2-12.64-6.9-.86-15.57-1.3-18.38 1.52-3.75 3.75-3.75 17.44 0 21.2 3.13 3.12 13.6 2.24 20.72 1.2l-.34-1.24z"/&gt;&lt;/g&gt;&lt;circle cx="79.883" cy="315.9" r="28.752" fill="#CBD6E0"/&gt;&lt;circle cx="79.883" cy="315.9" r="23.456" fill="#939799"/&gt;&lt;g fill="#CBD6E0"&gt;&lt;circle cx="79.883" cy="315.9" r="16.88"/&gt;&lt;circle cx="440.747" cy="315.9" r="28.752"/&gt;&lt;/g&gt;&lt;circle cx="440.747" cy="315.9" r="23.456" fill="#939799"/&gt;&lt;circle cx="440.747" cy="315.9" r="16.88" fill="#CBD6E0"/&gt;&lt;g fill="#5A5F63"&gt;&lt;path d="M180.88 226.9l26.2-2.1L240 171.23c-11.44 2.94-22.3 7.28-32.3 12.06l-26.82 43.6zM216.3 224.06l13.66-1.1L264 167.64c-4.7.25-9.35.77-13.97 1.58l-33.73 54.86zM309.4 216.64l26.2-2.1 28.9-47.02c-7.3-.55-15.38-.95-24.18-1.17l-30.92 50.3zM344.8 213.8l13.67-1.08 26.42-42.96c-3.7-.58-7.64-1.1-12.06-1.54L344.8 213.8z"/&gt;&lt;/g&gt;&lt;/svg&gt;<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 503.85604 295.36386"&gt;&lt;title&gt;hand-holding&lt;/title&gt;&lt;g&gt;&lt;g&gt;&lt;path fill="#ffc552" d="M434.36 26.06a17.37 17.37 0 0 0-17.38 17.38v86.87h34.75V43.45a17.37 17.37 0 0 0-17.37-17.38zM69.5 26.06a17.37 17.37 0 0 1 17.37 17.38v86.87H52.12V43.45A17.37 17.37 0 0 1 69.5 26.06z"/&gt;&lt;path fill="#ffe5ba" d="M18.21.02c9.36.44 16.55 8.5 16.55 17.85l17.37 77.7L104.25 139h18.86a4.34 4.34 0 0 0 3.85-6.37l-17.7-33.56A17.37 17.37 0 0 1 134 74.67s44.74 67.08 64.88 95.44a52.2 52.2 0 0 1 9.6 30.22v86.36a8.7 8.7 0 0 1-8.67 8.68H139a8.7 8.7 0 0 1-8.7-8.68v-43.44L27.64 132a8.7 8.7 0 0 1-2.1-3.94L0 17.36A17.38 17.38 0 0 1 18.2.03z"/&gt;&lt;path fill="#ffd686" d="M12.8.6L40.2 122 156.73 243.6v51.76H139a8.7 8.7 0 0 1-8.7-8.68v-43.44L27.64 132a8.7 8.7 0 0 1-2.1-3.94L0 17.36A17.38 17.38 0 0 1 12.8.62z"/&gt;&lt;path fill="#ffe5ba" d="M485.64.02c-9.34.44-14.46 8.72-16.53 17.85-5.06 22.3-17.37 77.7-17.37 77.7L399.6 139h-18.85a4.34 4.34 0 0 1-3.84-6.37l17.7-33.56a17.37 17.37 0 1 0-24.74-24.4s-44.75 67.08-64.88 95.44a52.2 52.2 0 0 0-9.62 30.22v86.36a8.7 8.7 0 0 0 8.7 8.68h60.8a8.7 8.7 0 0 0 8.68-8.68v-43.44L476.25 132a8.7 8.7 0 0 0 2.07-3.94l25.55-110.7A17.37 17.37 0 0 0 485.65.03z"/&gt;&lt;path fill="#ffd686" d="M491.05.6L463.68 122 347.13 243.6v51.76h17.73a8.7 8.7 0 0 0 8.7-8.68v-43.44L476.22 132a8.7 8.7 0 0 0 2.08-3.94l25.56-110.7A17.38 17.38 0 0 0 491.06.62z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Nov 2023, 21:43:17 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Nov 2023, 22:39:47 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
