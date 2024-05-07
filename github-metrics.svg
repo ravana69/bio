@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1113" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2538" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}svg.calendar{margin-left:13px;margin-top:4px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown a{color:#58a6ff;text-decoration:none}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}span.code{margin:0 4px -3px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.center{justify-content:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.deleted{color:#da3633}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown i{width:97%}.markdown a{color:#58a6ff;text-decoration:none}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.markdown i,code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}span.code{margin:0 4px -3px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -273,13 +273,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 372 days
+                            Current streak 366 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            Best streak 372 days
+                            Best streak 366 days
                         </div>
                         <h3 class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -297,7 +297,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~53.33
+                            Average per day at ~53.32
                         </div>
                     </section>
                 </div>
@@ -318,43 +318,6 @@
                     </filter>
                     <g transform="scale(4) translate(12, 0)">
                         <g transform="translate(0, 0)">
-                            <g transform="translate(0, 3.916666666666667)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 4.916666666666667)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 5.833333333333333)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.166666666666666 0,3.1666666666666665 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1666666666666665 1.7,4.166666666666666 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 6.916666666666667)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 7.916666666666667)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 8.833333333333332)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.166666666666666 0,3.1666666666666665 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1666666666666665 1.7,4.166666666666666 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 9.916666666666668)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(1.7, 1)">
                             <g transform="translate(0, 3.4999999999999996)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.5 0,3.5 z"/>
@@ -391,7 +354,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2083333333333335 1.7,4.208333333333334 z"/>
                             </g>
                         </g>
-                        <g transform="translate(3.4, 2)">
+                        <g transform="translate(1.7, 1)">
                             <g transform="translate(0, 3.8749999999999996)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
@@ -428,7 +391,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
                             </g>
                         </g>
-                        <g transform="translate(5.1, 3)">
+                        <g transform="translate(3.4, 2)">
                             <g transform="translate(0, 3.916666666666667)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
@@ -465,7 +428,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
                             </g>
                         </g>
-                        <g transform="translate(6.8, 4)">
+                        <g transform="translate(5.1, 3)">
                             <g transform="translate(0, 3.6250000000000004)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.375 0,3.375 z"/>
@@ -502,7 +465,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                         </g>
-                        <g transform="translate(8.5, 5)">
+                        <g transform="translate(6.8, 4)">
                             <g transform="translate(0, 4)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4 0,3 z"/>
@@ -539,7 +502,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.041666666666667 1.7,4.041666666666667 z"/>
                             </g>
                         </g>
-                        <g transform="translate(10.2, 6)">
+                        <g transform="translate(8.5, 5)">
                             <g transform="translate(0, 3.958333333333333)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.041666666666667 0,3.041666666666667 z"/>
@@ -576,7 +539,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.5416666666666665 1.7,4.541666666666666 z"/>
                             </g>
                         </g>
-                        <g transform="translate(11.9, 7)">
+                        <g transform="translate(10.2, 6)">
                             <g transform="translate(0, 3.916666666666667)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
@@ -613,7 +576,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3 1.7,4 z"/>
                             </g>
                         </g>
-                        <g transform="translate(13.6, 8)">
+                        <g transform="translate(11.9, 7)">
                             <g transform="translate(0, 3.8749999999999996)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
@@ -645,12 +608,12 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.3333333333333335 1.7,4.333333333333334 z"/>
                             </g>
                             <g transform="translate(-10.2, 10.041666666666668)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.9583333333333335 0,2.9583333333333335 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.9583333333333335 1.7,3.9583333333333335 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.9583333333333335 0,2.9583333333333335 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.9583333333333335 1.7,3.9583333333333335 z"/>
                             </g>
                         </g>
-                        <g transform="translate(15.299999999999999, 9)">
+                        <g transform="translate(13.6, 8)">
                             <g transform="translate(0, 4)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4 0,3 z"/>
@@ -687,7 +650,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.041666666666667 1.7,4.041666666666667 z"/>
                             </g>
                         </g>
-                        <g transform="translate(17, 10)">
+                        <g transform="translate(15.299999999999999, 9)">
                             <g transform="translate(0, 4)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4 0,3 z"/>
@@ -724,7 +687,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.25 1.7,4.25 z"/>
                             </g>
                         </g>
-                        <g transform="translate(18.7, 11)">
+                        <g transform="translate(17, 10)">
                             <g transform="translate(0, 3.7916666666666665)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.208333333333334 0,3.2083333333333335 z"/>
@@ -761,127 +724,127 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
                             </g>
                         </g>
-                        <g transform="translate(20.4, 12)">
+                        <g transform="translate(18.7, 11)">
                             <g transform="translate(0, 3.916666666666667)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
                             </g>
                             <g transform="translate(-1.7, 4.916666666666667)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
                             </g>
                             <g transform="translate(-3.4, 5.875)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                             <g transform="translate(-5.1, 6.75)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.25 0,3.25 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.25 1.7,4.25 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.25 0,3.25 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.25 1.7,4.25 z"/>
                             </g>
                             <g transform="translate(-6.8, 7.666666666666667)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.333333333333334 0,3.3333333333333335 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.3333333333333335 1.7,4.333333333333334 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.333333333333334 0,3.3333333333333335 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.3333333333333335 1.7,4.333333333333334 z"/>
                             </g>
                             <g transform="translate(-8.5, 8.708333333333334)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.291666666666666 0,3.2916666666666665 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2916666666666665 1.7,4.291666666666666 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.291666666666666 0,3.2916666666666665 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2916666666666665 1.7,4.291666666666666 z"/>
                             </g>
                             <g transform="translate(-10.2, 9.916666666666668)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(20.4, 12)">
+                            <g transform="translate(0, 3.375)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.625 0,3.625 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.625 1.7,4.625 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 4.833333333333333)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.166666666666666 0,3.1666666666666665 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1666666666666665 1.7,4.166666666666666 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 5.916666666666667)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 6.916666666666667)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 7.916666666666667)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 7.833333333333333)">
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.166666666666667 0,4.166666666666667 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.166666666666667 1.7,5.166666666666667 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 9.916666666666668)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
                             </g>
                         </g>
                         <g transform="translate(22.099999999999998, 13)">
-                            <g transform="translate(0, 3.208333333333333)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.791666666666667 0,3.791666666666667 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.791666666666667 1.7,4.791666666666667 z"/>
+                            <g transform="translate(0, 3.8749999999999996)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
-                            <g transform="translate(-1.7, 4.75)">
+                            <g transform="translate(-1.7, 4.5)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.25 0,3.25 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.25 1.7,4.25 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.5 0,3.5 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.5 1.7,4.5 z"/>
                             </g>
                             <g transform="translate(-3.4, 5.916666666666667)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
                             </g>
-                            <g transform="translate(-5.1, 6.916666666666667)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
+                            <g transform="translate(-5.1, 6.875)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
-                            <g transform="translate(-6.8, 7.916666666666667)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
+                            <g transform="translate(-6.8, 7.833333333333333)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.166666666666666 0,3.1666666666666665 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1666666666666665 1.7,4.166666666666666 z"/>
                             </g>
-                            <g transform="translate(-8.5, 7.708333333333333)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.291666666666667 0,4.291666666666667 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.291666666666667 1.7,5.291666666666667 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 9.916666666666668)">
+                            <g transform="translate(-8.5, 8.291666666666668)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.708333333333334 0,3.7083333333333335 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.7083333333333335 1.7,4.708333333333334 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 9.208333333333332)">
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.791666666666667 0,3.791666666666667 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.791666666666667 1.7,4.791666666666667 z"/>
                             </g>
                         </g>
                         <g transform="translate(23.8, 14)">
                             <g transform="translate(0, 3.8749999999999996)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 4.125)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.875 0,3.875 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.875 1.7,4.875 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 5.916666666666667)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 6.875)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 7.833333333333333)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.166666666666666 0,3.1666666666666665 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1666666666666665 1.7,4.166666666666666 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 8.208333333333332)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.791666666666667 0,3.791666666666667 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.791666666666667 1.7,4.791666666666667 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 9.166666666666668)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.833333333333333 0,3.833333333333333 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.833333333333333 1.7,4.833333333333333 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(25.5, 15)">
-                            <g transform="translate(0, 3.8749999999999996)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                             <g transform="translate(-1.7, 4.875)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                             <g transform="translate(-3.4, 2)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -894,9 +857,9 @@
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2916666666666665 1.7,4.291666666666666 z"/>
                             </g>
                             <g transform="translate(-6.8, 7.208333333333333)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.791666666666667 0,3.791666666666667 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.791666666666667 1.7,4.791666666666667 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.791666666666667 0,3.791666666666667 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.791666666666667 1.7,4.791666666666667 z"/>
                             </g>
                             <g transform="translate(-8.5, 8.708333333333334)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -904,41 +867,41 @@
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2916666666666665 1.7,4.291666666666666 z"/>
                             </g>
                             <g transform="translate(-10.2, 9.875)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                         </g>
-                        <g transform="translate(27.2, 16)">
+                        <g transform="translate(25.5, 15)">
                             <g transform="translate(0, 3.541666666666667)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.458333333333333 0,3.458333333333333 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.458333333333333 1.7,4.458333333333333 z"/>
                             </g>
                             <g transform="translate(-1.7, 4.791666666666666)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.208333333333334 0,3.2083333333333335 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2083333333333335 1.7,4.208333333333334 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.208333333333334 0,3.2083333333333335 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2083333333333335 1.7,4.208333333333334 z"/>
                             </g>
                             <g transform="translate(-3.4, 5.791666666666666)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.208333333333334 0,3.2083333333333335 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2083333333333335 1.7,4.208333333333334 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.208333333333334 0,3.2083333333333335 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2083333333333335 1.7,4.208333333333334 z"/>
                             </g>
                             <g transform="translate(-5.1, 6.875)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                             <g transform="translate(-6.8, 7.833333333333333)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.166666666666666 0,3.1666666666666665 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1666666666666665 1.7,4.166666666666666 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.166666666666666 0,3.1666666666666665 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1666666666666665 1.7,4.166666666666666 z"/>
                             </g>
                             <g transform="translate(-8.5, 8.875)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                             <g transform="translate(-10.2, 7.583333333333333)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -946,7 +909,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.416666666666667 1.7,6.416666666666667 z"/>
                             </g>
                         </g>
-                        <g transform="translate(28.9, 17)">
+                        <g transform="translate(27.2, 16)">
                             <g transform="translate(0, 2.375)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.625 0,4.625 z"/>
@@ -983,7 +946,7 @@
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                         </g>
-                        <g transform="translate(30.599999999999998, 18)">
+                        <g transform="translate(28.9, 17)">
                             <g transform="translate(0, 3.8749999999999996)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
@@ -1020,7 +983,7 @@
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                         </g>
-                        <g transform="translate(32.3, 19)">
+                        <g transform="translate(30.599999999999998, 18)">
                             <g transform="translate(0, 3.666666666666667)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.333333333333334 0,3.3333333333333335 z"/>
@@ -1057,44 +1020,44 @@
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                         </g>
-                        <g transform="translate(34, 20)">
+                        <g transform="translate(32.3, 19)">
                             <g transform="translate(0, 1.0833333333333335)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.916666666666666 0,5.916666666666666 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.916666666666666 1.7,6.916666666666666 z"/>
                             </g>
                             <g transform="translate(-1.7, 4.583333333333333)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.416666666666667 0,3.416666666666667 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.416666666666667 1.7,4.416666666666667 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.416666666666667 0,3.416666666666667 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.416666666666667 1.7,4.416666666666667 z"/>
                             </g>
                             <g transform="translate(-3.4, 5.875)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                             <g transform="translate(-5.1, 6.791666666666666)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.208333333333334 0,3.2083333333333335 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2083333333333335 1.7,4.208333333333334 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.208333333333334 0,3.2083333333333335 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2083333333333335 1.7,4.208333333333334 z"/>
                             </g>
                             <g transform="translate(-6.8, 7.875)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                             <g transform="translate(-8.5, 8.375)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.625 0,3.625 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.625 1.7,4.625 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.625 0,3.625 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.625 1.7,4.625 z"/>
                             </g>
                             <g transform="translate(-10.2, 9.875)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                         </g>
-                        <g transform="translate(35.699999999999996, 21)">
+                        <g transform="translate(34, 20)">
                             <g transform="translate(0, 3.583333333333333)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.416666666666667 0,3.416666666666667 z"/>
@@ -1131,7 +1094,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.375 1.7,4.375 z"/>
                             </g>
                         </g>
-                        <g transform="translate(37.4, 22)">
+                        <g transform="translate(35.699999999999996, 21)">
                             <g transform="translate(0, 3.916666666666667)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
@@ -1168,7 +1131,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1666666666666665 1.7,4.166666666666666 z"/>
                             </g>
                         </g>
-                        <g transform="translate(39.1, 23)">
+                        <g transform="translate(37.4, 22)">
                             <g transform="translate(0, 3.8749999999999996)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
@@ -1205,7 +1168,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                         </g>
-                        <g transform="translate(40.8, 24)">
+                        <g transform="translate(39.1, 23)">
                             <g transform="translate(0, 3.7083333333333335)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.291666666666666 0,3.2916666666666665 z"/>
@@ -1242,7 +1205,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.25 1.7,4.25 z"/>
                             </g>
                         </g>
-                        <g transform="translate(42.5, 25)">
+                        <g transform="translate(40.8, 24)">
                             <g transform="translate(0, 3.8749999999999996)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
@@ -1279,7 +1242,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                         </g>
-                        <g transform="translate(44.199999999999996, 26)">
+                        <g transform="translate(42.5, 25)">
                             <g transform="translate(0, 3.8749999999999996)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
@@ -1316,7 +1279,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                         </g>
-                        <g transform="translate(45.9, 27)">
+                        <g transform="translate(44.199999999999996, 26)">
                             <g transform="translate(0, 3.666666666666667)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.333333333333334 0,3.3333333333333335 z"/>
@@ -1353,7 +1316,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
                             </g>
                         </g>
-                        <g transform="translate(47.6, 28)">
+                        <g transform="translate(45.9, 27)">
                             <g transform="translate(0, 3.8749999999999996)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
@@ -1390,7 +1353,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1666666666666665 1.7,4.166666666666666 z"/>
                             </g>
                         </g>
-                        <g transform="translate(49.3, 29)">
+                        <g transform="translate(47.6, 28)">
                             <g transform="translate(0, 3.75)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.25 0,3.25 z"/>
@@ -1427,7 +1390,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.25 1.7,4.25 z"/>
                             </g>
                         </g>
-                        <g transform="translate(51, 30)">
+                        <g transform="translate(49.3, 29)">
                             <g transform="translate(0, 3.8749999999999996)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
@@ -1464,7 +1427,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.375 1.7,4.375 z"/>
                             </g>
                         </g>
-                        <g transform="translate(52.699999999999996, 31)">
+                        <g transform="translate(51, 30)">
                             <g transform="translate(0, 3.833333333333333)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.166666666666666 0,3.1666666666666665 z"/>
@@ -1501,7 +1464,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.3333333333333335 1.7,4.333333333333334 z"/>
                             </g>
                         </g>
-                        <g transform="translate(54.4, 32)">
+                        <g transform="translate(52.699999999999996, 31)">
                             <g transform="translate(0, 3.916666666666667)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
@@ -1538,7 +1501,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                         </g>
-                        <g transform="translate(56.1, 33)">
+                        <g transform="translate(54.4, 32)">
                             <g transform="translate(0, 3.7916666666666665)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.208333333333334 0,3.2083333333333335 z"/>
@@ -1575,7 +1538,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                         </g>
-                        <g transform="translate(57.8, 34)">
+                        <g transform="translate(56.1, 33)">
                             <g transform="translate(0, 3.916666666666667)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
@@ -1612,7 +1575,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                         </g>
-                        <g transform="translate(59.5, 35)">
+                        <g transform="translate(57.8, 34)">
                             <g transform="translate(0, 3.8749999999999996)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
@@ -1649,7 +1612,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1666666666666665 1.7,4.166666666666666 z"/>
                             </g>
                         </g>
-                        <g transform="translate(61.199999999999996, 36)">
+                        <g transform="translate(59.5, 35)">
                             <g transform="translate(0, 3.7916666666666665)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.208333333333334 0,3.2083333333333335 z"/>
@@ -1686,7 +1649,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                         </g>
-                        <g transform="translate(62.9, 37)">
+                        <g transform="translate(61.199999999999996, 36)">
                             <g transform="translate(0, 3.8749999999999996)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
@@ -1723,7 +1686,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                         </g>
-                        <g transform="translate(64.6, 38)">
+                        <g transform="translate(62.9, 37)">
                             <g transform="translate(0, 3.916666666666667)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
@@ -1760,7 +1723,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.458333333333333 1.7,4.458333333333333 z"/>
                             </g>
                         </g>
-                        <g transform="translate(66.3, 39)">
+                        <g transform="translate(64.6, 38)">
                             <g transform="translate(0, 3.666666666666667)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.333333333333334 0,3.3333333333333335 z"/>
@@ -1797,16 +1760,16 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                         </g>
-                        <g transform="translate(68, 40)">
+                        <g transform="translate(66.3, 39)">
                             <g transform="translate(0, 3.7916666666666665)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.208333333333334 0,3.2083333333333335 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2083333333333335 1.7,4.208333333333334 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.208333333333334 0,3.2083333333333335 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2083333333333335 1.7,4.208333333333334 z"/>
                             </g>
                             <g transform="translate(-1.7, 4.875)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                             <g transform="translate(-3.4, 2.208333333333333)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1814,19 +1777,19 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,6.791666666666667 1.7,7.791666666666667 z"/>
                             </g>
                             <g transform="translate(-5.1, 6.875)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                             <g transform="translate(-6.8, 7.875)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                             <g transform="translate(-8.5, 8.875)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                             <g transform="translate(-10.2, 9.25)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1834,7 +1797,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.75 1.7,4.75 z"/>
                             </g>
                         </g>
-                        <g transform="translate(69.7, 41)">
+                        <g transform="translate(68, 40)">
                             <g transform="translate(0, 3.7083333333333335)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.291666666666666 0,3.2916666666666665 z"/>
@@ -1871,7 +1834,7 @@
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1666666666666665 1.7,4.166666666666666 z"/>
                             </g>
                         </g>
-                        <g transform="translate(71.39999999999999, 42)">
+                        <g transform="translate(69.7, 41)">
                             <g transform="translate(0, 3.75)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.25 0,3.25 z"/>
@@ -1908,7 +1871,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.9166666666666665 1.7,4.916666666666666 z"/>
                             </g>
                         </g>
-                        <g transform="translate(73.1, 43)">
+                        <g transform="translate(71.39999999999999, 42)">
                             <g transform="translate(0, 3.75)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.25 0,3.25 z"/>
@@ -1945,44 +1908,44 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.833333333333333 1.7,4.833333333333333 z"/>
                             </g>
                         </g>
-                        <g transform="translate(74.8, 44)">
+                        <g transform="translate(73.1, 43)">
                             <g transform="translate(0, 3.583333333333333)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.416666666666667 0,3.416666666666667 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.416666666666667 1.7,4.416666666666667 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.416666666666667 0,3.416666666666667 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.416666666666667 1.7,4.416666666666667 z"/>
                             </g>
                             <g transform="translate(-1.7, 5.291666666666667)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.708333333333333 0,2.708333333333333 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.708333333333333 1.7,3.708333333333333 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.708333333333333 0,2.708333333333333 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.708333333333333 1.7,3.708333333333333 z"/>
                             </g>
                             <g transform="translate(-3.4, 5.875)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                             <g transform="translate(-5.1, 6.875)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                             <g transform="translate(-6.8, 7.916666666666667)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
                             </g>
                             <g transform="translate(-8.5, 8.833333333333332)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.166666666666666 0,3.1666666666666665 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1666666666666665 1.7,4.166666666666666 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.166666666666666 0,3.1666666666666665 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1666666666666665 1.7,4.166666666666666 z"/>
                             </g>
                             <g transform="translate(-10.2, 9.875)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                         </g>
-                        <g transform="translate(76.5, 45)">
+                        <g transform="translate(74.8, 44)">
                             <g transform="translate(0, 3.7083333333333335)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.291666666666666 0,3.2916666666666665 z"/>
@@ -2019,7 +1982,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
                             </g>
                         </g>
-                        <g transform="translate(78.2, 46)">
+                        <g transform="translate(76.5, 45)">
                             <g transform="translate(0, 3.833333333333333)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.166666666666666 0,3.1666666666666665 z"/>
@@ -2056,7 +2019,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1666666666666665 1.7,4.166666666666666 z"/>
                             </g>
                         </g>
-                        <g transform="translate(79.89999999999999, 47)">
+                        <g transform="translate(78.2, 46)">
                             <g transform="translate(0, 3.958333333333333)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.041666666666667 0,3.041666666666667 z"/>
@@ -2093,16 +2056,16 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
                             </g>
                         </g>
-                        <g transform="translate(81.6, 48)">
+                        <g transform="translate(79.89999999999999, 47)">
                             <g transform="translate(0, 3.958333333333333)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.041666666666667 0,3.041666666666667 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.041666666666667 1.7,4.041666666666667 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.041666666666667 0,3.041666666666667 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.041666666666667 1.7,4.041666666666667 z"/>
                             </g>
                             <g transform="translate(-1.7, 4.958333333333333)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.041666666666667 0,3.041666666666667 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.041666666666667 1.7,4.041666666666667 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.041666666666667 0,3.041666666666667 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.041666666666667 1.7,4.041666666666667 z"/>
                             </g>
                             <g transform="translate(-3.4, 5.833333333333333)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2110,27 +2073,27 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1666666666666665 1.7,4.166666666666666 z"/>
                             </g>
                             <g transform="translate(-5.1, 6.958333333333333)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.041666666666667 0,3.041666666666667 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.041666666666667 1.7,4.041666666666667 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.041666666666667 0,3.041666666666667 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.041666666666667 1.7,4.041666666666667 z"/>
                             </g>
                             <g transform="translate(-6.8, 7.916666666666667)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
                             </g>
                             <g transform="translate(-8.5, 8.958333333333332)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.041666666666667 0,3.041666666666667 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.041666666666667 1.7,4.041666666666667 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.041666666666667 0,3.041666666666667 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.041666666666667 1.7,4.041666666666667 z"/>
                             </g>
                             <g transform="translate(-10.2, 9.916666666666668)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
                             </g>
                         </g>
-                        <g transform="translate(83.3, 49)">
+                        <g transform="translate(81.6, 48)">
                             <g transform="translate(0, 3.916666666666667)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
@@ -2167,7 +2130,7 @@
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
                             </g>
                         </g>
-                        <g transform="translate(85, 50)">
+                        <g transform="translate(83.3, 49)">
                             <g transform="translate(0, 5.166666666666667)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8333333333333335 0,1.8333333333333335 z"/>
@@ -2204,7 +2167,7 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.3333333333333335 1.7,4.333333333333334 z"/>
                             </g>
                         </g>
-                        <g transform="translate(86.7, 51)">
+                        <g transform="translate(85, 50)">
                             <g transform="translate(0, 3.8749999999999996)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.125 0,3.125 z"/>
@@ -2241,7 +2204,7 @@
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.125 1.7,4.125 z"/>
                             </g>
                         </g>
-                        <g transform="translate(88.39999999999999, 52)">
+                        <g transform="translate(86.7, 51)">
                             <g transform="translate(0, 3.666666666666667)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.333333333333334 0,3.3333333333333335 z"/>
@@ -2263,14 +2226,14 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2916666666666665 1.7,4.291666666666666 z"/>
                             </g>
                             <g transform="translate(-6.8, 7.916666666666667)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
                             </g>
                             <g transform="translate(-8.5, 8.916666666666668)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.083333333333333 0,3.083333333333333 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.083333333333333 1.7,4.083333333333333 z"/>
                             </g>
                             <g transform="translate(-10.2, 9.791666666666666)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2278,11 +2241,16 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2083333333333335 1.7,4.208333333333334 z"/>
                             </g>
                         </g>
-                        <g transform="translate(90.1, 53)">
+                        <g transform="translate(88.39999999999999, 52)">
                             <g transform="translate(0, 3.75)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.25 0,3.25 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.25 1.7,4.25 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 4.833333333333333)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.166666666666666 0,3.1666666666666665 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1666666666666665 1.7,4.166666666666666 z"/>
                             </g>
                         </g>
                     </g>
@@ -2302,7 +2270,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">ravana69/randomaudio</span>
+                            <span class="blue space">ravana69/spotxspicetify</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -2310,7 +2278,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 6 May 2024, 22:09:09
+                            On 6 May 2024, 18:34:43
                         </div>
                     </section>
                 </div>
@@ -2320,17 +2288,17 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Update source.txt
+                            Update index.html
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">9e6aed05</span>
-                            <span class="code">source.txt</span>
+                            <span class="code">1c4b0658</span>
+                            <span class="code">index.html</span>
                             <span class="code">
-                                <span class="snippet additions">++4</span>
-                                <span class="snippet deletions">--0</span>
+                                <span class="snippet additions">++1</span>
+                                <span class="snippet deletions">--1</span>
                             </span>
                         </div>
                     </section>
@@ -2338,15 +2306,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -4068,3 +4068,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">https://archive.org/download/ravana-S/SWARGEEYA%20JEEVANTE%20APPAM%20_%20Fr.%20Thomas%20Poothara%20TOR%20_%20Fr.%20Anjo%20Karappilly%20MCBS_%20Narayani%20Gopan%20_%20Deny%28MP3_320K%29.mp3<br /></span><span class="token prefix unchanged">·</span><span class="token line">https://archive.org/download/ravana-O/Oduvilee%20Sandhyayum%20Njanum%20_%20Kadha%20_%20Prithviraj%20_%20Kavya%20Madhavan%20_%20Ouseppachan%20_%20KS%20Chithra%28MP3_320K%29.mp3<br /></span><span class="token prefix unchanged">·</span><span class="token line">https://archive.org/download/ravana-O/Ozhuki%20Njan%20Varikayaay%20_%20Jawan%20of%20Vellimala%20_%20KS%20Chithra%20_%20Bijibal%20_%20Santhosh%20Varma%28MP3_320K%29.mp3<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">https://archive.org/download/ravana-N/Nira%20thinkale%20%28Female%29%20_%20My%20Big%20Father%28MP3_320K%29.mp3<br /></span><span class="token prefix inserted">+</span><span class="token line">https://archive.org/download/ravana-A/Aakasham%20Minniyunarnnuvo%20_%20I%20Love%20Me%20_%20Karthik%20_%20Shweta%20Mohan%20_%20Deepak%20Dev%20_%20Rafeeq%20Ahammed%28MP3_320K%29.mp3<br /></span><span class="token prefix inserted">+</span><span class="token line">https://archive.org/download/ravana-S/Sreejayadeve%20kruthahariseve%20_%20HD%20Video%20_%20%20Thaniyaavarthanam%20_%20Kaithapram%20_%20Kaithapram%20_%20MG%20Sreekumar%28MP3_320K%29.mp3<br /></span><span class="token prefix inserted">+</span><span class="token line">https://archive.org/download/ravana-V/Ven%20Nilavilente%20-%20Lyrical%20_%20Oudh%20_%20Shafeeq%20Ummer%20_%20K.%20S.%20Chithra%20_%20Ninoy%20Varghese%28MP3_320K%29.mp3
-</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +1 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">{"marketplace:installed:Delusoire/spicetify-extensions/dist\\spoqify-radios\\prism.mjs":"{\"manifest\":{\"description\":\"Create anonymized radio-playlists for your favorite songs, playlists, artists and albums.\",\"authors\":[{\"name\":\"Delusoire\",\"url\":\"https://github.com/Delusoire\"},{\"name\":\"BitesizedLion\"}],\"tags\":[\"radio\",\"spoqify\"],\"name\":\"spoqify-radios\",\"preview\":\"extensions\\\\spoqify-radios\\\\assets\\\\preview.png\",\"main\":\"dist\\\\spoqify-radios\\\\prism.mjs\",\"readme\":\"extensions\\\\spoqify-radios\\\\assets\\\\README.md\"},\"type\":\"extension\",\"title\":\"spoqify-radios\",\"subtitle\":\"Create anonymized radio-playlists for your favorite songs, playlists, artists and albums.\",\"authors\":[{\"name\":\"Delusoire\",\"url\":\"https://github.com/Delusoire\"},{\"name\":\"BitesizedLion\"}],\"user\":\"Delusoire\",\"repo\":\"spicetify-extensions\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/Delusoire/spicetify-extensions/main/extensions\\\\spoqify-radios\\\\assets\\\\preview.png\",\"extensionURL\":\"https://raw.githubusercontent.com/Delusoire/spicetify-extensions/main/dist\\\\spoqify-radios\\\\prism.mjs\",\"readmeURL\":\"https://raw.githubusercontent.com/Delusoire/spicetify-extensions/main/extensions\\\\spoqify-radios\\\\assets\\\\README.md\",\"stars\":23,\"lastUpdated\":\"2024-02-22T11:02:37Z\",\"created\":\"2023-08-01T21:23:15Z\"}","marketplace:colorShift":"true","marketplace:installed-extensions":"[\"marketplace:installed:daksh2k/Spicetify-stuff/Extensions/Wrappers/fullScreenWrapper.js\",\"marketplace:installed:daksh2k/Spicetify-stuff/Extensions/Wrappers/volumePercentageWrapper.js\",\"marketplace:installed:Tetrax-10/Spicetify-Extensions/Play-on-YouTube/playOnYouTube.js\",\"marketplace:installed:jeroentvb/spicetify-power-bar/power-bar.js\",\"marketplace:installed:Theblockbuster1/spicetify-extensions/QueueTime/QueueTime.js\",\"marketplace:installed:jeroentvb/spicetify-playlist-icons/playlist-icons.js\",\"marketplace:installed:Pithaya/spicetify-apps/extensions/made-for-you-shortcut/dist/made-for-you-shortcut.js\",\"marketplace:installed:Delusoire/spicetify-extensions/dist\\\\spoqify-radios\\\\prism.mjs\",\"marketplace:installed:ohitstom/spicetify-extensions/playbarClock/playbarClock.js\",\"marketplace:installed:ohitstom/spicetify-extensions/volumePercentage/volumePercentage.js\",\"marketplace:installed:fl3xm3ist3r/spicetifyExtensions/upcomingSong/upcomingSong.js\",\"marketplace:installed:TechShivvy/spicetify-extensions/play-random/playRandom.mjs\",\"marketplace:installed:H3r3zy/spicetify-pip/pip.js\",\"marketplace:installed:kyrie25/spicetify-utilities/utilities.js\",\"marketplace:installed:kyrie25/Spicetify-Cache-Cleaner/cacheCleaner.js\",\"marketplace:installed:TheGeeKing/spicetify-extensions/toggleLyricsPlusFullscreen/toggleLyricsPlusFullscreen.js\",\"marketplace:installed:theRealPadster/spicetify-hide-podcasts/hidePodcasts.js\",\"marketplace:installed:CharlieS1103/spicetify-extensions/featureshuffle/featureshuffle.js\",\"marketplace:installed:spicetify/spicetify-cli/Extensions/shuffle+.js\",\"marketplace:installed:Taeko-ar/spicetify-last-fm/src/lastfm.js\",\"marketplace:installed:BlafKing/spicetify-cat-jam-synced/marketplace/cat-jam.js\"]","marketplace:installed:BlafKing/spicetify-cat-jam-synced/marketplace/cat-jam.js":"{\"manifest\":{\"name\":\"Cat-Jam Synced\",\"description\":\"An extension that lets a cat jam in sync with the beat of your music.\",\"preview\":\"marketplace/preview.gif\",\"main\":\"marketplace/cat-jam.js\",\"readme\":\"README.md\"},\"type\":\"extension\",\"title\":\"Cat-Jam Synced\",\"subtitle\":\"An extension that lets a cat jam in sync with the beat of your music.\",\"authors\":[{\"name\":\"BlafKing\",\"url\":\"https://github.com/BlafKing\"}],\"user\":\"BlafKing\",\"repo\":\"spicetify-cat-jam-synced\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/BlafKing/spicetify-cat-jam-synced/main/marketplace/preview.gif\",\"extensionURL\":\"https://raw.githubusercontent.com/BlafKing/spicetify-cat-jam-synced/main/marketplace/cat-jam.js\",\"readmeURL\":\"https://raw.githubusercontent.com/BlafKing/spicetify-cat-jam-synced/main/README.md\",\"stars\":12,\"lastUpdated\":\"2024-04-05T22:57:31Z\",\"created\":\"2024-03-31T15:12:58Z\"}","marketplace:installed:snippet:Fix-progress-bar-displacement":"{\"code\":\".main-connectBar-connectBar {\\n  overflow: visible !important;\\n  position: absolute !important;\\n  display: flex !important;\\n  align-items: unset !important;\\n  left: 80% !important;\\n  height: 20px !important;\\n  bottom: 1% !important;\\n  padding: 2px !important;\\n  background-color: transparent !important;\\n  color: var(--spice-text) !important;\\n}\\n.control-button::after {\\n  display: none !important;\\n}\",\"title\":\"Fix progress bar displacement\",\"description\":\"Fixes the progress bar displacement for a few themes. Better version of @CharlieS1103 Snippet\",\"imageURL\":\"https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/assets/snippets/fix-progress-bar.png\"}","marketplace:installed:kyrie25/spicetify-utilities/utilities.js":"{\"manifest\":{\"name\":\"Utilities\",\"description\":\"Collection of utilities for Spicetify\",\"preview\":\"screenshot.png\",\"main\":\"utilities.js\",\"readme\":\"README.md\"},\"type\":\"extension\",\"title\":\"Utilities\",\"subtitle\":\"Collection of utilities for Spicetify\",\"authors\":[{\"name\":\"kyrie25\",\"url\":\"https://github.com/kyrie25\"}],\"user\":\"kyrie25\",\"repo\":\"spicetify-utilities\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/kyrie25/spicetify-utilities/main/screenshot.png\",\"extensionURL\":\"https://raw.githubusercontent.com/kyrie25/spicetify-utilities/main/utilities.js\",\"readmeURL\":\"https://raw.githubusercontent.com/kyrie25/spicetify-utilities/main/README.md\",\"stars\":6,\"lastUpdated\":\"2023-09-28T16:47:37Z\",\"created\":\"2023-06-19T00:16:10Z\"}","marketplace:sort":"newest","marketplace:installed:jeroentvb/spicetify-power-bar/power-bar.js":"{\"manifest\":{\"name\":\"Power bar\",\"description\":\"Spotlight-like quick search bar.\",\"preview\":\"docs/power-bar.png\",\"main\":\"power-bar.js\",\"readme\":\"README.md\",\"authors\":[{\"name\":\"jeroentvb\",\"url\":\"https://github.com/jeroentvb\"}],\"branch\":\"dist\"},\"type\":\"extension\",\"title\":\"Power bar\",\"subtitle\":\"Spotlight-like quick search bar.\",\"authors\":[{\"name\":\"jeroentvb\",\"url\":\"https://github.com/jeroentvb\"}],\"user\":\"jeroentvb\",\"repo\":\"spicetify-power-bar\",\"branch\":\"dist\",\"imageURL\":\"https://raw.githubusercontent.com/jeroentvb/spicetify-power-bar/dist/docs/power-bar.png\",\"extensionURL\":\"https://raw.githubusercontent.com/jeroentvb/spicetify-power-bar/dist/power-bar.js\",\"readmeURL\":\"https://raw.githubusercontent.com/jeroentvb/spicetify-power-bar/dist/README.md\",\"stars\":64,\"lastUpdated\":\"2024-02-27T17:03:06Z\",\"created\":\"2022-01-21T20:10:43Z\"}","marketplace:installed:jeroentvb/spicetify-playlist-icons/playlist-icons.js":"{\"manifest\":{\"name\":\"Playlist icons\",\"description\":\"Add playlist icons to the playlist list\",\"preview\":\"docs/context-menu.png\",\"main\":\"playlist-icons.js\",\"readme\":\"README.md\",\"authors\":[{\"name\":\"jeroentvb\",\"url\":\"https://github.com/jeroentvb\"}],\"branch\":\"dist\"},\"type\":\"extension\",\"title\":\"Playlist icons\",\"subtitle\":\"Add playlist icons to the playlist list\",\"authors\":[{\"name\":\"jeroentvb\",\"url\":\"https://github.com/jeroentvb\"}],\"user\":\"jeroentvb\",\"repo\":\"spicetify-playlist-icons\",\"branch\":\"dist\",\"imageURL\":\"https://raw.githubusercontent.com/jeroentvb/spicetify-playlist-icons/dist/docs/context-menu.png\",\"extensionURL\":\"https://raw.githubusercontent.com/jeroentvb/spicetify-playlist-icons/dist/playlist-icons.js\",\"readmeURL\":\"https://raw.githubusercontent.com/jeroentvb/spicetify-playlist-icons/dist/README.md\",\"stars\":34,\"lastUpdated\":\"2024-02-28T19:23:33Z\",\"created\":\"2022-02-07T18:57:00Z\"}","marketplace:installed:snippet:Better-lyrics-style":"{\"code\":\".lyrics-lyrics-contentContainer .lyrics-lyricsContent-lyric.lyrics-lyricsContent-highlight { filter: blur(1.5px); padding: 15px; font-size: 110%; } .lyrics-lyrics-contentContainer .lyrics-lyricsContent-lyric.lyrics-lyricsContent-active { filter: none; padding: 20px; font-size: 130%; } .lyrics-lyrics-contentContainer .lyrics-lyricsContent-lyric { filter: blur(1.5px); padding: 15px; font-size: 110%; } .lyrics-lyrics-contentContainer .lyrics-lyricsContent-lyric.lyrics-lyricsContent-unsynced { filter: none; padding: 10px; font-size: 100%; }\",\"title\":\"Better lyrics style\",\"description\":\"Spotify lyrics are focused and beautified\",\"imageURL\":\"https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/assets/snippets/better-lyrics-style.png\"}","marketplace:installed:theRealPadster/spicetify-hide-podcasts/hidePodcasts.js":"{\"manifest\":{\"name\":\"Spicetify-Hide-Podcasts\",\"description\":\"Spicetify extension to hide podcasts.\",\"preview\":\"screenshot.png\",\"main\":\"hidePodcasts.js\",\"readme\":\"README.md\"},\"type\":\"extension\",\"title\":\"Spicetify-Hide-Podcasts\",\"subtitle\":\"Spicetify extension to hide podcasts.\",\"authors\":[{\"name\":\"theRealPadster\",\"url\":\"https://github.com/theRealPadster\"}],\"user\":\"theRealPadster\",\"repo\":\"spicetify-hide-podcasts\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/theRealPadster/spicetify-hide-podcasts/main/screenshot.png\",\"extensionURL\":\"https://raw.githubusercontent.com/theRealPadster/spicetify-hide-podcasts/main/hidePodcasts.js\",\"readmeURL\":\"https://raw.githubusercontent.com/theRealPadster/spicetify-hide-podcasts/main/README.md\",\"stars\":234,\"lastUpdated\":\"2024-03-08T02:52:33Z\",\"created\":\"2020-10-10T02:48:23Z\"}","marketplace:installed:Taeko-ar/spicetify-last-fm/src/lastfm.js":"{\"manifest\":{\"name\":\"Last.fm Stats\",\"description\":\"Get info from your Last.fm account\",\"preview\":\"images/song_stats.png\",\"main\":\"src/lastfm.js\",\"readme\":\"README.md\",\"authors\":[{\"name\":\"Taeko\",\"url\":\"https://github.com/LucasBares\"}],\"tags\":[\"lastfm\"]},\"type\":\"extension\",\"title\":\"Last.fm Stats\",\"subtitle\":\"Get info from your Last.fm account\",\"authors\":[{\"name\":\"Taeko\",\"url\":\"https://github.com/LucasBares\"}],\"user\":\"Taeko-ar\",\"repo\":\"spicetify-last-fm\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/Taeko-ar/spicetify-last-fm/main/images/song_stats.png\",\"extensionURL\":\"https://raw.githubusercontent.com/Taeko-ar/spicetify-last-fm/main/src/lastfm.js\",\"readmeURL\":\"https://raw.githubusercontent.com/Taeko-ar/spicetify-last-fm/main/README.md\",\"stars\":20,\"lastUpdated\":\"2022-11-21T02:04:35Z\",\"created\":\"2022-06-05T03:43:23Z\"}","marketplace:installed:fl3xm3ist3r/spicetifyExtensions/upcomingSong/upcomingSong.js":"{\"manifest\":{\"name\":\"Upcoming Song\",\"description\":\"Displays the upcoming song near the current song based on the queue.\",\"preview\":\"upcomingSong/preview.png\",\"main\":\"upcomingSong/upcomingSong.js\",\"readme\":\"upcomingSong/README.md\",\"authors\":[{\"name\":\"Fl3xm3ist3r\",\"url\":\"https://github.com/fl3xm3ist3r\"}]},\"type\":\"extension\",\"title\":\"Upcoming Song\",\"subtitle\":\"Displays the upcoming song near the current song based on the queue.\",\"authors\":[{\"name\":\"Fl3xm3ist3r\",\"url\":\"https://github.com/fl3xm3ist3r\"}],\"user\":\"fl3xm3ist3r\",\"repo\":\"spicetifyExtensions\",\"branch\":\"master\",\"imageURL\":\"https://raw.githubusercontent.com/fl3xm3ist3r/spicetifyExtensions/master/upcomingSong/preview.png\",\"extensionURL\":\"https://raw.githubusercontent.com/fl3xm3ist3r/spicetifyExtensions/master/upcomingSong/upcomingSong.js\",\"readmeURL\":\"https://raw.githubusercontent.com/fl3xm3ist3r/spicetifyExtensions/master/upcomingSong/README.md\",\"stars\":10,\"lastUpdated\":\"2023-11-28T20:19:28Z\",\"created\":\"2023-10-08T20:53:32Z\"}","marketplace:installed:Tetrax-10/Spicetify-Extensions/Play-on-YouTube/playOnYouTube.js":"{\"manifest\":{\"name\":\"Play on YouTube\",\"description\":\"Plays the Video Song of a Track in YouTube\",\"preview\":\"Play-on-YouTube/preview.png\",\"main\":\"Play-on-YouTube/playOnYouTube.js\",\"readme\":\"Play-on-YouTube/README.md\",\"branch\":\"dist\"},\"type\":\"extension\",\"title\":\"Play on YouTube\",\"subtitle\":\"Plays the Video Song of a Track in YouTube\",\"authors\":[{\"name\":\"Tetrax-10\",\"url\":\"https://github.com/Tetrax-10\"}],\"user\":\"Tetrax-10\",\"repo\":\"Spicetify-Extensions\",\"branch\":\"dist\",\"imageURL\":\"https://raw.githubusercontent.com/Tetrax-10/Spicetify-Extensions/dist/Play-on-YouTube/preview.png\",\"extensionURL\":\"https://raw.githubusercontent.com/Tetrax-10/Spicetify-Extensions/dist/Play-on-YouTube/playOnYouTube.js\",\"readmeURL\":\"https://raw.githubusercontent.com/Tetrax-10/Spicetify-Extensions/dist/Play-on-YouTube/README.md\",\"stars\":158,\"lastUpdated\":\"2023-07-22T15:27:40Z\",\"created\":\"2022-05-22T08:27:58Z\"}","marketplace:installed:Pithaya/spicetify-apps/extensions/made-for-you-shortcut/dist/made-for-you-shortcut.js":"{\"manifest\":{\"name\":\"\\\"Made for you\\\" shortcut\",\"description\":\"Add a shortcut to the \\\"Made for you\\\" page to the sidebar.\",\"preview\":\"extensions/made-for-you-shortcut/preview.png\",\"main\":\"extensions/made-for-you-shortcut/dist/made-for-you-shortcut.js\",\"readme\":\"extensions/made-for-you-shortcut/README.md\"},\"type\":\"extension\",\"title\":\"\\\"Made for you\\\" shortcut\",\"subtitle\":\"Add a shortcut to the \\\"Made for you\\\" page to the sidebar.\",\"authors\":[{\"name\":\"Pithaya\",\"url\":\"https://github.com/Pithaya\"}],\"user\":\"Pithaya\",\"repo\":\"spicetify-apps\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/Pithaya/spicetify-apps/main/extensions/made-for-you-shortcut/preview.png\",\"extensionURL\":\"https://raw.githubusercontent.com/Pithaya/spicetify-apps/main/extensions/made-for-you-shortcut/dist/made-for-you-shortcut.js\",\"readmeURL\":\"https://raw.githubusercontent.com/Pithaya/spicetify-apps/main/extensions/made-for-you-shortcut/README.md\",\"stars\":32,\"lastUpdated\":\"2024-03-02T19:18:09Z\",\"created\":\"2022-11-23T14:46:37Z\"}","marketplace:installed:kyrie25/Spicetify-Cache-Cleaner/cacheCleaner.js":"{\"manifest\":{\"name\":\"Cache Cleaner\",\"description\":\"Automatically clear Spotify cache after a time and/or threshold is surpassed.\",\"preview\":\"screenshot.png\",\"main\":\"cacheCleaner.js\",\"readme\":\"README.md\"},\"type\":\"extension\",\"title\":\"Cache Cleaner\",\"subtitle\":\"Automatically clear Spotify cache after a time and/or threshold is surpassed.\",\"authors\":[{\"name\":\"kyrie25\",\"url\":\"https://github.com/kyrie25\"}],\"user\":\"kyrie25\",\"repo\":\"Spicetify-Cache-Cleaner\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/kyrie25/Spicetify-Cache-Cleaner/main/screenshot.png\",\"extensionURL\":\"https://raw.githubusercontent.com/kyrie25/Spicetify-Cache-Cleaner/main/cacheCleaner.js\",\"readmeURL\":\"https://raw.githubusercontent.com/kyrie25/Spicetify-Cache-Cleaner/main/README.md\",\"stars\":6,\"lastUpdated\":\"2023-06-02T10:01:57Z\",\"created\":\"2022-08-18T15:34:28Z\"}","marketplace:installed:spicetify/spicetify-cli/Extensions/shuffle+.js":"{\"manifest\":{\"name\":\"Shuffle+\",\"description\":\"Shuffles using Fisher–Yates algorithm with zero bias. After installing extensions, right click album/playlist/artist item, there will be an option \\\"Play with Shuffle+\\\". You can also multiple select tracks and choose to \\\"Play with Shuffle+\\\". Moreover, enable option \\\"Auto Shuffle+\\\" in Profile menu to inject Shuffle+ into every play buttons, no need to right click anymore.\",\"preview\":\"https://i.imgur.com/gxbnqSN.png\",\"main\":\"Extensions/shuffle+.js\"},\"type\":\"extension\",\"title\":\"Shuffle+\",\"subtitle\":\"Shuffles using Fisher–Yates algorithm with zero bias. After installing extensions, right click album/playlist/artist item, there will be an option \\\"Play with Shuffle+\\\". You can also multiple select tracks and choose to \\\"Play with Shuffle+\\\". Moreover, enable option \\\"Auto Shuffle+\\\" in Profile menu to inject Shuffle+ into every play buttons, no need to right click anymore.\",\"authors\":[{\"name\":\"spicetify\",\"url\":\"https://github.com/spicetify\"}],\"user\":\"spicetify\",\"repo\":\"spicetify-cli\",\"branch\":\"master\",\"imageURL\":\"https://i.imgur.com/gxbnqSN.png\",\"extensionURL\":\"https://raw.githubusercontent.com/spicetify/spicetify-cli/master/Extensions/shuffle+.js\",\"readmeURL\":\"https://raw.githubusercontent.com/spicetify/spicetify-cli/master/undefined\",\"stars\":16259,\"lastUpdated\":\"2024-03-09T01:28:19Z\",\"created\":\"2018-12-01T19:55:18Z\"}","marketplace:installed:H3r3zy/spicetify-pip/pip.js":"{\"manifest\":{\"name\":\"Pip\",\"description\":\"PIP mode for spotify\",\"preview\":\"assets/preview.png\",\"readme\":\"README.md\",\"authors\":[{\"name\":\"H3r3zy\",\"email\":\"https://github.com/H3r3zy\"}],\"main\":\"pip.js\"},\"type\":\"extension\",\"title\":\"Pip\",\"subtitle\":\"PIP mode for spotify\",\"authors\":[{\"name\":\"H3r3zy\"}],\"user\":\"H3r3zy\",\"repo\":\"spicetify-pip\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/H3r3zy/spicetify-pip/main/assets/preview.png\",\"extensionURL\":\"https://raw.githubusercontent.com/H3r3zy/spicetify-pip/main/pip.js\",\"readmeURL\":\"https://raw.githubusercontent.com/H3r3zy/spicetify-pip/main/README.md\",\"stars\":6,\"lastUpdated\":\"2024-01-13T14:17:19Z\",\"created\":\"2024-01-11T17:08:38Z\"}","marketplace:tabs":"[{\"name\":\"Extensions\",\"enabled\":true},{\"name\":\"Themes\",\"enabled\":true},{\"name\":\"Snippets\",\"enabled\":true},{\"name\":\"Apps\",\"enabled\":true},{\"name\":\"Installed\",\"enabled\":true}]","marketplace:installed:Theblockbuster1/spicetify-extensions/QueueTime/QueueTime.js":"{\"manifest\":{\"name\":\"Queue Time\",\"description\":\"Display time remaining in the current queue.\",\"preview\":\"QueueTime/QueueTime.png\",\"main\":\"QueueTime/QueueTime.js\",\"readme\":\"QueueTime/README.md\"},\"type\":\"extension\",\"title\":\"Queue Time\",\"subtitle\":\"Display time remaining in the current queue.\",\"authors\":[{\"name\":\"Theblockbuster1\",\"url\":\"https://github.com/Theblockbuster1\"}],\"user\":\"Theblockbuster1\",\"repo\":\"spicetify-extensions\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/Theblockbuster1/spicetify-extensions/main/QueueTime/QueueTime.png\",\"extensionURL\":\"https://raw.githubusercontent.com/Theblockbuster1/spicetify-extensions/main/QueueTime/QueueTime.js\",\"readmeURL\":\"https://raw.githubusercontent.com/Theblockbuster1/spicetify-extensions/main/QueueTime/README.md\",\"stars\":56,\"lastUpdated\":\"2023-12-19T18:27:14Z\",\"created\":\"2022-02-15T17:49:44Z\"}","marketplace:installed:daksh2k/Spicetify-stuff/Extensions/Wrappers/volumePercentageWrapper.js":"{\"manifest\":{\"name\":\"Volume Percentage\",\"description\":\"Add the current Volume Percentage to the Volume Bar.\",\"preview\":\"https://i.imgur.com/lQQXSIg.png\",\"main\":\"Extensions/Wrappers/volumePercentageWrapper.js\",\"readme\":\"EXTENSIONS.md#volume-percentage\"},\"type\":\"extension\",\"title\":\"Volume Percentage\",\"subtitle\":\"Add the current Volume Percentage to the Volume Bar.\",\"authors\":[{\"name\":\"daksh2k\",\"url\":\"https://github.com/daksh2k\"}],\"user\":\"daksh2k\",\"repo\":\"Spicetify-stuff\",\"branch\":\"master\",\"imageURL\":\"https://i.imgur.com/lQQXSIg.png\",\"extensionURL\":\"https://raw.githubusercontent.com/daksh2k/Spicetify-stuff/master/Extensions/Wrappers/volumePercentageWrapper.js\",\"readmeURL\":\"https://raw.githubusercontent.com/daksh2k/Spicetify-stuff/master/EXTENSIONS.md#volume-percentage\",\"stars\":165,\"lastUpdated\":\"2024-03-03T20:24:48Z\",\"created\":\"2021-06-22T18:26:31Z\"}","marketplace:installed-snippets":"[\"marketplace:installed:snippet:Smooth-Reveal-Playlist-Gradient\",\"marketplace:installed:snippet:Fix-progress-bar-displacement\",\"marketplace:installed:snippet:Better-lyrics-style\",\"marketplace:installed:snippet:Fix-Listening-On\"]","marketplace:installed:daksh2k/Spicetify-stuff/Extensions/Wrappers/fullScreenWrapper.js":"{\"manifest\":{\"name\":\"Full Screen\",\"description\":\"Fancy artwork display. Modified from FAD with extra features.\",\"preview\":\"https://i.imgur.com/uPbnZkz.png\",\"main\":\"Extensions/Wrappers/fullScreenWrapper.js\",\"readme\":\"Extensions/full-screen/README.md\"},\"type\":\"extension\",\"title\":\"Full Screen\",\"subtitle\":\"Fancy artwork display. Modified from FAD with extra features.\",\"authors\":[{\"name\":\"daksh2k\",\"url\":\"https://github.com/daksh2k\"}],\"user\":\"daksh2k\",\"repo\":\"Spicetify-stuff\",\"branch\":\"master\",\"imageURL\":\"https://i.imgur.com/uPbnZkz.png\",\"extensionURL\":\"https://raw.githubusercontent.com/daksh2k/Spicetify-stuff/master/Extensions/Wrappers/fullScreenWrapper.js\",\"readmeURL\":\"https://raw.githubusercontent.com/daksh2k/Spicetify-stuff/master/Extensions/full-screen/README.md\",\"stars\":165,\"lastUpdated\":\"2024-03-03T20:24:48Z\",\"created\":\"2021-06-22T18:26:31Z\"}","marketplace:albumArtBasedColors":"true","marketplace:installed:TheGeeKing/spicetify-extensions/toggleLyricsPlusFullscreen/toggleLyricsPlusFullscreen.js":"{\"manifest\":{\"name\":\"Toggle Lyrics Plus Fullscreen\",\"description\":\"Spicetify extension to toggle Lyrics Plus in fullscreen\",\"preview\":\"toggleLyricsPlusFullscreen/toggleLyricsPlusFullscreen.png\",\"main\":\"toggleLyricsPlusFullscreen/toggleLyricsPlusFullscreen.js\"},\"type\":\"extension\",\"title\":\"Toggle Lyrics Plus Fullscreen\",\"subtitle\":\"Spicetify extension to toggle Lyrics Plus in fullscreen\",\"authors\":[{\"name\":\"TheGeeKing\",\"url\":\"https://github.com/TheGeeKing\"}],\"user\":\"TheGeeKing\",\"repo\":\"spicetify-extensions\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/TheGeeKing/spicetify-extensions/main/toggleLyricsPlusFullscreen/toggleLyricsPlusFullscreen.png\",\"extensionURL\":\"https://raw.githubusercontent.com/TheGeeKing/spicetify-extensions/main/toggleLyricsPlusFullscreen/toggleLyricsPlusFullscreen.js\",\"readmeURL\":\"https://raw.githubusercontent.com/TheGeeKing/spicetify-extensions/main/undefined\",\"stars\":7,\"lastUpdated\":\"2021-12-24T08:49:06Z\",\"created\":\"2021-10-02T10:25:40Z\"}","marketplace:installed:ohitstom/spicetify-extensions/volumePercentage/volumePercentage.js":"{\"manifest\":{\"name\":\"Volume Percentage\",\"description\":\"View/Modify volume percentage in a hoverable Tippy.\",\"preview\":\"volumePercentage/marketplace.png\",\"main\":\"volumePercentage/volumePercentage.js\",\"readme\":\"volumePercentage/README.md\",\"tags\":[\"minimal\",\"audio\"]},\"type\":\"extension\",\"title\":\"Volume Percentage\",\"subtitle\":\"View/Modify volume percentage in a hoverable Tippy.\",\"authors\":[{\"name\":\"ohitstom\",\"url\":\"https://github.com/ohitstom\"}],\"user\":\"ohitstom\",\"repo\":\"spicetify-extensions\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/ohitstom/spicetify-extensions/main/volumePercentage/marketplace.png\",\"extensionURL\":\"https://raw.githubusercontent.com/ohitstom/spicetify-extensions/main/volumePercentage/volumePercentage.js\",\"readmeURL\":\"https://raw.githubusercontent.com/ohitstom/spicetify-extensions/main/volumePercentage/README.md\",\"stars\":17,\"lastUpdated\":\"2024-03-08T13:39:47Z\",\"created\":\"2023-05-12T00:35:27Z\"}","marketplace:active-tab":"Apps","marketplace:local-theme":"Hazy","marketplace:installed:snippet:Fix-Listening-On":"{\"code\":\".Svg-presentation-essentialBase-small-icon-autoMirror {fill: var(--spice-text);} .TypeElement-mesto-textBase-type {color: var(--spice-text) !important;} .main-devicePicker-indicator {display: none !important;} .main-nowPlayingBar-container {height: 72px !important;} .main-connectBar-connectBar {position: absolute !important; align-items: center !important; top: 42px !important; height: 32px !important; align-self: center !important; background-color: transparent !important; width: 30% !important;}\",\"title\":\"Fix Listening On\",\"description\":\"Fix listening on for some themes that move it up or make the text not visible\",\"imageURL\":\"https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/assets/snippets/fix-listening-on.png\"}","marketplace:installed:CharlieS1103/spicetify-extensions/featureshuffle/featureshuffle.js":"{\"manifest\":{\"name\":\"Feature Shuffle\",\"description\":\"Spicetify extension to make a playlist based on another playlist's audio features\",\"preview\":\"featureshuffle/featureshuffle.png\",\"main\":\"featureshuffle/featureshuffle.js\",\"readme\":\"featureshuffle/README.md\"},\"type\":\"extension\",\"title\":\"Feature Shuffle\",\"subtitle\":\"Spicetify extension to make a playlist based on another playlist's audio features\",\"authors\":[{\"name\":\"CharlieS1103\",\"url\":\"https://github.com/CharlieS1103\"}],\"user\":\"CharlieS1103\",\"repo\":\"spicetify-extensions\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/CharlieS1103/spicetify-extensions/main/featureshuffle/featureshuffle.png\",\"extensionURL\":\"https://raw.githubusercontent.com/CharlieS1103/spicetify-extensions/main/featureshuffle/featureshuffle.js\",\"readmeURL\":\"https://raw.githubusercontent.com/CharlieS1103/spicetify-extensions/main/featureshuffle/README.md\",\"stars\":510,\"lastUpdated\":\"2023-10-01T23:12:12Z\",\"created\":\"2021-07-09T23:11:13Z\"}","marketplace:installed:TechShivvy/spicetify-extensions/play-random/playRandom.mjs":"{\"manifest\":{\"name\":\"Play a Random Song\",\"description\":\"Click and let the app play a random track for you.\",\"main\":\"play-random/playRandom.mjs\",\"readme\":\"play-random/README.md\",\"preview\":\"play-random/playRandom.jpg\",\"authors\":[{\"name\":\"TechShivvy\",\"url\":\"https://github.com/TechShivvy\"}],\"tags\":[\"random\",\"song\"]},\"type\":\"extension\",\"title\":\"Play a Random Song\",\"subtitle\":\"Click and let the app play a random track for you.\",\"authors\":[{\"name\":\"TechShivvy\",\"url\":\"https://github.com/TechShivvy\"}],\"user\":\"TechShivvy\",\"repo\":\"spicetify-extensions\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/TechShivvy/spicetify-extensions/main/play-random/playRandom.jpg\",\"extensionURL\":\"https://raw.githubusercontent.com/TechShivvy/spicetify-extensions/main/play-random/playRandom.mjs\",\"readmeURL\":\"https://raw.githubusercontent.com/TechShivvy/spicetify-extensions/main/play-random/README.md\",\"stars\":8,\"lastUpdated\":\"2024-01-01T13:58:46Z\",\"created\":\"2023-09-30T07:39:51Z\"}","marketplace:installed:ohitstom/spicetify-extensions/playbarClock/playbarClock.js":"{\"manifest\":{\"name\":\"Playbar Clock\",\"description\":\"Current system time on the playbar, with display options.\",\"preview\":\"playbarClock/marketplace.png\",\"main\":\"playbarClock/playbarClock.js\",\"readme\":\"playbarClock/README.md\",\"tags\":[\"time\",\"utility\"]},\"type\":\"extension\",\"title\":\"Playbar Clock\",\"subtitle\":\"Current system time on the playbar, with display options.\",\"authors\":[{\"name\":\"ohitstom\",\"url\":\"https://github.com/ohitstom\"}],\"user\":\"ohitstom\",\"repo\":\"spicetify-extensions\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/ohitstom/spicetify-extensions/main/playbarClock/marketplace.png\",\"extensionURL\":\"https://raw.githubusercontent.com/ohitstom/spicetify-extensions/main/playbarClock/playbarClock.js\",\"readmeURL\":\"https://raw.githubusercontent.com/ohitstom/spicetify-extensions/main/playbarClock/README.md\",\"stars\":17,\"lastUpdated\":\"2024-03-08T13:39:47Z\",\"created\":\"2023-05-12T00:35:27Z\"}","marketplace:installed:snippet:Smooth-Reveal-Playlist-Gradient":"{\"code\":\".main-entityHeader-overlay,\\n.main-actionBarBackground-background,\\n.main-entityHeader-overlay,\\n.main-entityHeader-backgroundColor {\\n  -webkit-transition: 3s;\\n}\",\"title\":\"Smooth Reveal Playlist Gradient\",\"description\":\"Reveals the playlist gradient header gradient with a fade in effect\",\"imageURL\":\"https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/assets/snippets/smooth-playlist-reveal-gradient.png\"}"}<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{"marketplace:installed:Delusoire/spicetify-extensions/dist\\spoqify-radios\\prism.mjs":"{\"manifest\":{\"description\":\"Create anonymized radio-playlists for your favorite songs, playlists, artists and albums.\",\"authors\":[{\"name\":\"Delusoire\",\"url\":\"https://github.com/Delusoire\"},{\"name\":\"BitesizedLion\"}],\"tags\":[\"radio\",\"spoqify\"],\"name\":\"spoqify-radios\",\"preview\":\"extensions\\\\spoqify-radios\\\\assets\\\\preview.png\",\"main\":\"dist\\\\spoqify-radios\\\\prism.mjs\",\"readme\":\"extensions\\\\spoqify-radios\\\\assets\\\\README.md\"},\"type\":\"extension\",\"title\":\"spoqify-radios\",\"subtitle\":\"Create anonymized radio-playlists for your favorite songs, playlists, artists and albums.\",\"authors\":[{\"name\":\"Delusoire\",\"url\":\"https://github.com/Delusoire\"},{\"name\":\"BitesizedLion\"}],\"user\":\"Delusoire\",\"repo\":\"spicetify-extensions\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/Delusoire/spicetify-extensions/main/extensions\\\\spoqify-radios\\\\assets\\\\preview.png\",\"extensionURL\":\"https://raw.githubusercontent.com/Delusoire/spicetify-extensions/main/dist\\\\spoqify-radios\\\\prism.mjs\",\"readmeURL\":\"https://raw.githubusercontent.com/Delusoire/spicetify-extensions/main/extensions\\\\spoqify-radios\\\\assets\\\\README.md\",\"stars\":23,\"lastUpdated\":\"2024-02-22T11:02:37Z\",\"created\":\"2023-08-01T21:23:15Z\"}","marketplace:colorShift":"true","marketplace:installed-extensions":"[\"marketplace:installed:daksh2k/Spicetify-stuff/Extensions/Wrappers/fullScreenWrapper.js\",\"marketplace:installed:daksh2k/Spicetify-stuff/Extensions/Wrappers/volumePercentageWrapper.js\",\"marketplace:installed:Tetrax-10/Spicetify-Extensions/Play-on-YouTube/playOnYouTube.js\",\"marketplace:installed:jeroentvb/spicetify-power-bar/power-bar.js\",\"marketplace:installed:Theblockbuster1/spicetify-extensions/QueueTime/QueueTime.js\",\"marketplace:installed:jeroentvb/spicetify-playlist-icons/playlist-icons.js\",\"marketplace:installed:Pithaya/spicetify-apps/extensions/made-for-you-shortcut/dist/made-for-you-shortcut.js\",\"marketplace:installed:Delusoire/spicetify-extensions/dist\\\\spoqify-radios\\\\prism.mjs\",\"marketplace:installed:ohitstom/spicetify-extensions/playbarClock/playbarClock.js\",\"marketplace:installed:ohitstom/spicetify-extensions/volumePercentage/volumePercentage.js\",\"marketplace:installed:fl3xm3ist3r/spicetifyExtensions/upcomingSong/upcomingSong.js\",\"marketplace:installed:TechShivvy/spicetify-extensions/play-random/playRandom.mjs\",\"marketplace:installed:H3r3zy/spicetify-pip/pip.js\",\"marketplace:installed:kyrie25/spicetify-utilities/utilities.js\",\"marketplace:installed:kyrie25/Spicetify-Cache-Cleaner/cacheCleaner.js\",\"marketplace:installed:TheGeeKing/spicetify-extensions/toggleLyricsPlusFullscreen/toggleLyricsPlusFullscreen.js\",\"marketplace:installed:theRealPadster/spicetify-hide-podcasts/hidePodcasts.js\",\"marketplace:installed:CharlieS1103/spicetify-extensions/featureshuffle/featureshuffle.js\",\"marketplace:installed:spicetify/spicetify-cli/Extensions/shuffle+.js\",\"marketplace:installed:Taeko-ar/spicetify-last-fm/src/lastfm.js\",\"marketplace:installed:BlafKing/spicetify-cat-jam-synced/marketplace/cat-jam.js\",\"marketplace:installed:NigelMarshal/spicetify-dancing-raccoon/marketplace/dancing-raccoon.js\"]","marketplace:installed:BlafKing/spicetify-cat-jam-synced/marketplace/cat-jam.js":"{\"manifest\":{\"name\":\"Cat-Jam Synced\",\"description\":\"An extension that lets a cat jam in sync with the beat of your music.\",\"preview\":\"marketplace/preview.gif\",\"main\":\"marketplace/cat-jam.js\",\"readme\":\"README.md\"},\"type\":\"extension\",\"title\":\"Cat-Jam Synced\",\"subtitle\":\"An extension that lets a cat jam in sync with the beat of your music.\",\"authors\":[{\"name\":\"BlafKing\",\"url\":\"https://github.com/BlafKing\"}],\"user\":\"BlafKing\",\"repo\":\"spicetify-cat-jam-synced\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/BlafKing/spicetify-cat-jam-synced/main/marketplace/preview.gif\",\"extensionURL\":\"https://raw.githubusercontent.com/BlafKing/spicetify-cat-jam-synced/main/marketplace/cat-jam.js\",\"readmeURL\":\"https://raw.githubusercontent.com/BlafKing/spicetify-cat-jam-synced/main/README.md\",\"stars\":12,\"lastUpdated\":\"2024-04-05T22:57:31Z\",\"created\":\"2024-03-31T15:12:58Z\"}","marketplace:installed:snippet:Fix-progress-bar-displacement":"{\"code\":\".main-connectBar-connectBar {\\n  overflow: visible !important;\\n  position: absolute !important;\\n  display: flex !important;\\n  align-items: unset !important;\\n  left: 80% !important;\\n  height: 20px !important;\\n  bottom: 1% !important;\\n  padding: 2px !important;\\n  background-color: transparent !important;\\n  color: var(--spice-text) !important;\\n}\\n.control-button::after {\\n  display: none !important;\\n}\",\"title\":\"Fix progress bar displacement\",\"description\":\"Fixes the progress bar displacement for a few themes. Better version of @CharlieS1103 Snippet\",\"imageURL\":\"https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/assets/snippets/fix-progress-bar.png\"}","marketplace:installed:kyrie25/spicetify-utilities/utilities.js":"{\"manifest\":{\"name\":\"Utilities\",\"description\":\"Collection of utilities for Spicetify\",\"preview\":\"screenshot.png\",\"main\":\"utilities.js\",\"readme\":\"README.md\"},\"type\":\"extension\",\"title\":\"Utilities\",\"subtitle\":\"Collection of utilities for Spicetify\",\"authors\":[{\"name\":\"kyrie25\",\"url\":\"https://github.com/kyrie25\"}],\"user\":\"kyrie25\",\"repo\":\"spicetify-utilities\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/kyrie25/spicetify-utilities/main/screenshot.png\",\"extensionURL\":\"https://raw.githubusercontent.com/kyrie25/spicetify-utilities/main/utilities.js\",\"readmeURL\":\"https://raw.githubusercontent.com/kyrie25/spicetify-utilities/main/README.md\",\"stars\":6,\"lastUpdated\":\"2023-09-28T16:47:37Z\",\"created\":\"2023-06-19T00:16:10Z\"}","marketplace:sort":"newest","marketplace:installed:jeroentvb/spicetify-power-bar/power-bar.js":"{\"manifest\":{\"name\":\"Power bar\",\"description\":\"Spotlight-like quick search bar.\",\"preview\":\"docs/power-bar.png\",\"main\":\"power-bar.js\",\"readme\":\"README.md\",\"authors\":[{\"name\":\"jeroentvb\",\"url\":\"https://github.com/jeroentvb\"}],\"branch\":\"dist\"},\"type\":\"extension\",\"title\":\"Power bar\",\"subtitle\":\"Spotlight-like quick search bar.\",\"authors\":[{\"name\":\"jeroentvb\",\"url\":\"https://github.com/jeroentvb\"}],\"user\":\"jeroentvb\",\"repo\":\"spicetify-power-bar\",\"branch\":\"dist\",\"imageURL\":\"https://raw.githubusercontent.com/jeroentvb/spicetify-power-bar/dist/docs/power-bar.png\",\"extensionURL\":\"https://raw.githubusercontent.com/jeroentvb/spicetify-power-bar/dist/power-bar.js\",\"readmeURL\":\"https://raw.githubusercontent.com/jeroentvb/spicetify-power-bar/dist/README.md\",\"stars\":64,\"lastUpdated\":\"2024-02-27T17:03:06Z\",\"created\":\"2022-01-21T20:10:43Z\"}","marketplace:installed:jeroentvb/spicetify-playlist-icons/playlist-icons.js":"{\"manifest\":{\"name\":\"Playlist icons\",\"description\":\"Add playlist icons to the playlist list\",\"preview\":\"docs/context-menu.png\",\"main\":\"playlist-icons.js\",\"readme\":\"README.md\",\"authors\":[{\"name\":\"jeroentvb\",\"url\":\"https://github.com/jeroentvb\"}],\"branch\":\"dist\"},\"type\":\"extension\",\"title\":\"Playlist icons\",\"subtitle\":\"Add playlist icons to the playlist list\",\"authors\":[{\"name\":\"jeroentvb\",\"url\":\"https://github.com/jeroentvb\"}],\"user\":\"jeroentvb\",\"repo\":\"spicetify-playlist-icons\",\"branch\":\"dist\",\"imageURL\":\"https://raw.githubusercontent.com/jeroentvb/spicetify-playlist-icons/dist/docs/context-menu.png\",\"extensionURL\":\"https://raw.githubusercontent.com/jeroentvb/spicetify-playlist-icons/dist/playlist-icons.js\",\"readmeURL\":\"https://raw.githubusercontent.com/jeroentvb/spicetify-playlist-icons/dist/README.md\",\"stars\":34,\"lastUpdated\":\"2024-02-28T19:23:33Z\",\"created\":\"2022-02-07T18:57:00Z\"}","marketplace:installed:snippet:Better-lyrics-style":"{\"code\":\".lyrics-lyrics-contentContainer .lyrics-lyricsContent-lyric.lyrics-lyricsContent-highlight { filter: blur(1.5px); padding: 15px; font-size: 110%; } .lyrics-lyrics-contentContainer .lyrics-lyricsContent-lyric.lyrics-lyricsContent-active { filter: none; padding: 20px; font-size: 130%; } .lyrics-lyrics-contentContainer .lyrics-lyricsContent-lyric { filter: blur(1.5px); padding: 15px; font-size: 110%; } .lyrics-lyrics-contentContainer .lyrics-lyricsContent-lyric.lyrics-lyricsContent-unsynced { filter: none; padding: 10px; font-size: 100%; }\",\"title\":\"Better lyrics style\",\"description\":\"Spotify lyrics are focused and beautified\",\"imageURL\":\"https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/assets/snippets/better-lyrics-style.png\"}","marketplace:installed:theRealPadster/spicetify-hide-podcasts/hidePodcasts.js":"{\"manifest\":{\"name\":\"Spicetify-Hide-Podcasts\",\"description\":\"Spicetify extension to hide podcasts.\",\"preview\":\"screenshot.png\",\"main\":\"hidePodcasts.js\",\"readme\":\"README.md\"},\"type\":\"extension\",\"title\":\"Spicetify-Hide-Podcasts\",\"subtitle\":\"Spicetify extension to hide podcasts.\",\"authors\":[{\"name\":\"theRealPadster\",\"url\":\"https://github.com/theRealPadster\"}],\"user\":\"theRealPadster\",\"repo\":\"spicetify-hide-podcasts\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/theRealPadster/spicetify-hide-podcasts/main/screenshot.png\",\"extensionURL\":\"https://raw.githubusercontent.com/theRealPadster/spicetify-hide-podcasts/main/hidePodcasts.js\",\"readmeURL\":\"https://raw.githubusercontent.com/theRealPadster/spicetify-hide-podcasts/main/README.md\",\"stars\":234,\"lastUpdated\":\"2024-03-08T02:52:33Z\",\"created\":\"2020-10-10T02:48:23Z\"}","marketplace:installed:NigelMarshal/spicetify-dancing-raccoon/marketplace/dancing-raccoon.js":"{\"manifest\":{\"name\":\"Pedro - Dancing Raccoon\",\"description\":\"Replaces the album art with a raccoon vibing to the beat.\",\"preview\":\"marketplace/preview.gif\",\"main\":\"marketplace/dancing-raccoon.js\",\"readme\":\"README.md\"},\"type\":\"extension\",\"title\":\"Pedro - Dancing Raccoon\",\"subtitle\":\"Replaces the album art with a raccoon vibing to the beat.\",\"authors\":[{\"name\":\"NigelMarshal\",\"url\":\"https://github.com/NigelMarshal\"}],\"user\":\"NigelMarshal\",\"repo\":\"spicetify-dancing-raccoon\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/NigelMarshal/spicetify-dancing-raccoon/main/marketplace/preview.gif\",\"extensionURL\":\"https://raw.githubusercontent.com/NigelMarshal/spicetify-dancing-raccoon/main/marketplace/dancing-raccoon.js\",\"readmeURL\":\"https://raw.githubusercontent.com/NigelMarshal/spicetify-dancing-raccoon/main/README.md\",\"stars\":2,\"lastUpdated\":\"2024-05-03T22:15:43Z\",\"created\":\"2024-05-03T07:28:39Z\"}","marketplace:installed:Taeko-ar/spicetify-last-fm/src/lastfm.js":"{\"manifest\":{\"name\":\"Last.fm Stats\",\"description\":\"Get info from your Last.fm account\",\"preview\":\"images/song_stats.png\",\"main\":\"src/lastfm.js\",\"readme\":\"README.md\",\"authors\":[{\"name\":\"Taeko\",\"url\":\"https://github.com/LucasBares\"}],\"tags\":[\"lastfm\"]},\"type\":\"extension\",\"title\":\"Last.fm Stats\",\"subtitle\":\"Get info from your Last.fm account\",\"authors\":[{\"name\":\"Taeko\",\"url\":\"https://github.com/LucasBares\"}],\"user\":\"Taeko-ar\",\"repo\":\"spicetify-last-fm\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/Taeko-ar/spicetify-last-fm/main/images/song_stats.png\",\"extensionURL\":\"https://raw.githubusercontent.com/Taeko-ar/spicetify-last-fm/main/src/lastfm.js\",\"readmeURL\":\"https://raw.githubusercontent.com/Taeko-ar/spicetify-last-fm/main/README.md\",\"stars\":20,\"lastUpdated\":\"2022-11-21T02:04:35Z\",\"created\":\"2022-06-05T03:43:23Z\"}","marketplace:installed:fl3xm3ist3r/spicetifyExtensions/upcomingSong/upcomingSong.js":"{\"manifest\":{\"name\":\"Upcoming Song\",\"description\":\"Displays the upcoming song near the current song based on the queue.\",\"preview\":\"upcomingSong/preview.png\",\"main\":\"upcomingSong/upcomingSong.js\",\"readme\":\"upcomingSong/README.md\",\"authors\":[{\"name\":\"Fl3xm3ist3r\",\"url\":\"https://github.com/fl3xm3ist3r\"}]},\"type\":\"extension\",\"title\":\"Upcoming Song\",\"subtitle\":\"Displays the upcoming song near the current song based on the queue.\",\"authors\":[{\"name\":\"Fl3xm3ist3r\",\"url\":\"https://github.com/fl3xm3ist3r\"}],\"user\":\"fl3xm3ist3r\",\"repo\":\"spicetifyExtensions\",\"branch\":\"master\",\"imageURL\":\"https://raw.githubusercontent.com/fl3xm3ist3r/spicetifyExtensions/master/upcomingSong/preview.png\",\"extensionURL\":\"https://raw.githubusercontent.com/fl3xm3ist3r/spicetifyExtensions/master/upcomingSong/upcomingSong.js\",\"readmeURL\":\"https://raw.githubusercontent.com/fl3xm3ist3r/spicetifyExtensions/master/upcomingSong/README.md\",\"stars\":10,\"lastUpdated\":\"2023-11-28T20:19:28Z\",\"created\":\"2023-10-08T20:53:32Z\"}","marketplace:installed:Tetrax-10/Spicetify-Extensions/Play-on-YouTube/playOnYouTube.js":"{\"manifest\":{\"name\":\"Play on YouTube\",\"description\":\"Plays the Video Song of a Track in YouTube\",\"preview\":\"Play-on-YouTube/preview.png\",\"main\":\"Play-on-YouTube/playOnYouTube.js\",\"readme\":\"Play-on-YouTube/README.md\",\"branch\":\"dist\"},\"type\":\"extension\",\"title\":\"Play on YouTube\",\"subtitle\":\"Plays the Video Song of a Track in YouTube\",\"authors\":[{\"name\":\"Tetrax-10\",\"url\":\"https://github.com/Tetrax-10\"}],\"user\":\"Tetrax-10\",\"repo\":\"Spicetify-Extensions\",\"branch\":\"dist\",\"imageURL\":\"https://raw.githubusercontent.com/Tetrax-10/Spicetify-Extensions/dist/Play-on-YouTube/preview.png\",\"extensionURL\":\"https://raw.githubusercontent.com/Tetrax-10/Spicetify-Extensions/dist/Play-on-YouTube/playOnYouTube.js\",\"readmeURL\":\"https://raw.githubusercontent.com/Tetrax-10/Spicetify-Extensions/dist/Play-on-YouTube/README.md\",\"stars\":158,\"lastUpdated\":\"2023-07-22T15:27:40Z\",\"created\":\"2022-05-22T08:27:58Z\"}","marketplace:installed:Pithaya/spicetify-apps/extensions/made-for-you-shortcut/dist/made-for-you-shortcut.js":"{\"manifest\":{\"name\":\"\\\"Made for you\\\" shortcut\",\"description\":\"Add a shortcut to the \\\"Made for you\\\" page to the sidebar.\",\"preview\":\"extensions/made-for-you-shortcut/preview.png\",\"main\":\"extensions/made-for-you-shortcut/dist/made-for-you-shortcut.js\",\"readme\":\"extensions/made-for-you-shortcut/README.md\"},\"type\":\"extension\",\"title\":\"\\\"Made for you\\\" shortcut\",\"subtitle\":\"Add a shortcut to the \\\"Made for you\\\" page to the sidebar.\",\"authors\":[{\"name\":\"Pithaya\",\"url\":\"https://github.com/Pithaya\"}],\"user\":\"Pithaya\",\"repo\":\"spicetify-apps\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/Pithaya/spicetify-apps/main/extensions/made-for-you-shortcut/preview.png\",\"extensionURL\":\"https://raw.githubusercontent.com/Pithaya/spicetify-apps/main/extensions/made-for-you-shortcut/dist/made-for-you-shortcut.js\",\"readmeURL\":\"https://raw.githubusercontent.com/Pithaya/spicetify-apps/main/extensions/made-for-you-shortcut/README.md\",\"stars\":32,\"lastUpdated\":\"2024-03-02T19:18:09Z\",\"created\":\"2022-11-23T14:46:37Z\"}","marketplace:installed:kyrie25/Spicetify-Cache-Cleaner/cacheCleaner.js":"{\"manifest\":{\"name\":\"Cache Cleaner\",\"description\":\"Automatically clear Spotify cache after a time and/or threshold is surpassed.\",\"preview\":\"screenshot.png\",\"main\":\"cacheCleaner.js\",\"readme\":\"README.md\"},\"type\":\"extension\",\"title\":\"Cache Cleaner\",\"subtitle\":\"Automatically clear Spotify cache after a time and/or threshold is surpassed.\",\"authors\":[{\"name\":\"kyrie25\",\"url\":\"https://github.com/kyrie25\"}],\"user\":\"kyrie25\",\"repo\":\"Spicetify-Cache-Cleaner\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/kyrie25/Spicetify-Cache-Cleaner/main/screenshot.png\",\"extensionURL\":\"https://raw.githubusercontent.com/kyrie25/Spicetify-Cache-Cleaner/main/cacheCleaner.js\",\"readmeURL\":\"https://raw.githubusercontent.com/kyrie25/Spicetify-Cache-Cleaner/main/README.md\",\"stars\":6,\"lastUpdated\":\"2023-06-02T10:01:57Z\",\"created\":\"2022-08-18T15:34:28Z\"}","marketplace:installed:spicetify/spicetify-cli/Extensions/shuffle+.js":"{\"manifest\":{\"name\":\"Shuffle+\",\"description\":\"Shuffles using Fisherâ€“Yates algorithm with zero bias. After installing extensions, right click album/playlist/artist item, there will be an option \\\"Play with Shuffle+\\\". You can also multiple select tracks and choose to \\\"Play with Shuffle+\\\". Moreover, enable option \\\"Auto Shuffle+\\\" in Profile menu to inject Shuffle+ into every play buttons, no need to right click anymore.\",\"preview\":\"https://i.imgur.com/gxbnqSN.png\",\"main\":\"Extensions/shuffle+.js\"},\"type\":\"extension\",\"title\":\"Shuffle+\",\"subtitle\":\"Shuffles using Fisherâ€“Yates algorithm with zero bias. After installing extensions, right click album/playlist/artist item, there will be an option \\\"Play with Shuffle+\\\". You can also multiple select tracks and choose to \\\"Play with Shuffle+\\\". Moreover, enable option \\\"Auto Shuffle+\\\" in Profile menu to inject Shuffle+ into every play buttons, no need to right click anymore.\",\"authors\":[{\"name\":\"spicetify\",\"url\":\"https://github.com/spicetify\"}],\"user\":\"spicetify\",\"repo\":\"spicetify-cli\",\"branch\":\"master\",\"imageURL\":\"https://i.imgur.com/gxbnqSN.png\",\"extensionURL\":\"https://raw.githubusercontent.com/spicetify/spicetify-cli/master/Extensions/shuffle+.js\",\"readmeURL\":\"https://raw.githubusercontent.com/spicetify/spicetify-cli/master/undefined\",\"stars\":16259,\"lastUpdated\":\"2024-03-09T01:28:19Z\",\"created\":\"2018-12-01T19:55:18Z\"}","marketplace:installed:H3r3zy/spicetify-pip/pip.js":"{\"manifest\":{\"name\":\"Pip\",\"description\":\"PIP mode for spotify\",\"preview\":\"assets/preview.png\",\"readme\":\"README.md\",\"authors\":[{\"name\":\"H3r3zy\",\"email\":\"https://github.com/H3r3zy\"}],\"main\":\"pip.js\"},\"type\":\"extension\",\"title\":\"Pip\",\"subtitle\":\"PIP mode for spotify\",\"authors\":[{\"name\":\"H3r3zy\"}],\"user\":\"H3r3zy\",\"repo\":\"spicetify-pip\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/H3r3zy/spicetify-pip/main/assets/preview.png\",\"extensionURL\":\"https://raw.githubusercontent.com/H3r3zy/spicetify-pip/main/pip.js\",\"readmeURL\":\"https://raw.githubusercontent.com/H3r3zy/spicetify-pip/main/README.md\",\"stars\":6,\"lastUpdated\":\"2024-01-13T14:17:19Z\",\"created\":\"2024-01-11T17:08:38Z\"}","marketplace:tabs":"[{\"name\":\"Extensions\",\"enabled\":true},{\"name\":\"Themes\",\"enabled\":true},{\"name\":\"Snippets\",\"enabled\":true},{\"name\":\"Apps\",\"enabled\":true},{\"name\":\"Installed\",\"enabled\":true}]","marketplace:installed:Theblockbuster1/spicetify-extensions/QueueTime/QueueTime.js":"{\"manifest\":{\"name\":\"Queue Time\",\"description\":\"Display time remaining in the current queue.\",\"preview\":\"QueueTime/QueueTime.png\",\"main\":\"QueueTime/QueueTime.js\",\"readme\":\"QueueTime/README.md\"},\"type\":\"extension\",\"title\":\"Queue Time\",\"subtitle\":\"Display time remaining in the current queue.\",\"authors\":[{\"name\":\"Theblockbuster1\",\"url\":\"https://github.com/Theblockbuster1\"}],\"user\":\"Theblockbuster1\",\"repo\":\"spicetify-extensions\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/Theblockbuster1/spicetify-extensions/main/QueueTime/QueueTime.png\",\"extensionURL\":\"https://raw.githubusercontent.com/Theblockbuster1/spicetify-extensions/main/QueueTime/QueueTime.js\",\"readmeURL\":\"https://raw.githubusercontent.com/Theblockbuster1/spicetify-extensions/main/QueueTime/README.md\",\"stars\":56,\"lastUpdated\":\"2023-12-19T18:27:14Z\",\"created\":\"2022-02-15T17:49:44Z\"}","marketplace:installed:daksh2k/Spicetify-stuff/Extensions/Wrappers/volumePercentageWrapper.js":"{\"manifest\":{\"name\":\"Volume Percentage\",\"description\":\"Add the current Volume Percentage to the Volume Bar.\",\"preview\":\"https://i.imgur.com/lQQXSIg.png\",\"main\":\"Extensions/Wrappers/volumePercentageWrapper.js\",\"readme\":\"EXTENSIONS.md#volume-percentage\"},\"type\":\"extension\",\"title\":\"Volume Percentage\",\"subtitle\":\"Add the current Volume Percentage to the Volume Bar.\",\"authors\":[{\"name\":\"daksh2k\",\"url\":\"https://github.com/daksh2k\"}],\"user\":\"daksh2k\",\"repo\":\"Spicetify-stuff\",\"branch\":\"master\",\"imageURL\":\"https://i.imgur.com/lQQXSIg.png\",\"extensionURL\":\"https://raw.githubusercontent.com/daksh2k/Spicetify-stuff/master/Extensions/Wrappers/volumePercentageWrapper.js\",\"readmeURL\":\"https://raw.githubusercontent.com/daksh2k/Spicetify-stuff/master/EXTENSIONS.md#volume-percentage\",\"stars\":165,\"lastUpdated\":\"2024-03-03T20:24:48Z\",\"created\":\"2021-06-22T18:26:31Z\"}","marketplace:installed-snippets":"[\"marketplace:installed:snippet:Smooth-Reveal-Playlist-Gradient\",\"marketplace:installed:snippet:Fix-progress-bar-displacement\",\"marketplace:installed:snippet:Better-lyrics-style\",\"marketplace:installed:snippet:Fix-Listening-On\"]","marketplace:installed:daksh2k/Spicetify-stuff/Extensions/Wrappers/fullScreenWrapper.js":"{\"manifest\":{\"name\":\"Full Screen\",\"description\":\"Fancy artwork display. Modified from FAD with extra features.\",\"preview\":\"https://i.imgur.com/uPbnZkz.png\",\"main\":\"Extensions/Wrappers/fullScreenWrapper.js\",\"readme\":\"Extensions/full-screen/README.md\"},\"type\":\"extension\",\"title\":\"Full Screen\",\"subtitle\":\"Fancy artwork display. Modified from FAD with extra features.\",\"authors\":[{\"name\":\"daksh2k\",\"url\":\"https://github.com/daksh2k\"}],\"user\":\"daksh2k\",\"repo\":\"Spicetify-stuff\",\"branch\":\"master\",\"imageURL\":\"https://i.imgur.com/uPbnZkz.png\",\"extensionURL\":\"https://raw.githubusercontent.com/daksh2k/Spicetify-stuff/master/Extensions/Wrappers/fullScreenWrapper.js\",\"readmeURL\":\"https://raw.githubusercontent.com/daksh2k/Spicetify-stuff/master/Extensions/full-screen/README.md\",\"stars\":165,\"lastUpdated\":\"2024-03-03T20:24:48Z\",\"created\":\"2021-06-22T18:26:31Z\"}","marketplace:albumArtBasedColors":"true","marketplace:installed:TheGeeKing/spicetify-extensions/toggleLyricsPlusFullscreen/toggleLyricsPlusFullscreen.js":"{\"manifest\":{\"name\":\"Toggle Lyrics Plus Fullscreen\",\"description\":\"Spicetify extension to toggle Lyrics Plus in fullscreen\",\"preview\":\"toggleLyricsPlusFullscreen/toggleLyricsPlusFullscreen.png\",\"main\":\"toggleLyricsPlusFullscreen/toggleLyricsPlusFullscreen.js\"},\"type\":\"extension\",\"title\":\"Toggle Lyrics Plus Fullscreen\",\"subtitle\":\"Spicetify extension to toggle Lyrics Plus in fullscreen\",\"authors\":[{\"name\":\"TheGeeKing\",\"url\":\"https://github.com/TheGeeKing\"}],\"user\":\"TheGeeKing\",\"repo\":\"spicetify-extensions\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/TheGeeKing/spicetify-extensions/main/toggleLyricsPlusFullscreen/toggleLyricsPlusFullscreen.png\",\"extensionURL\":\"https://raw.githubusercontent.com/TheGeeKing/spicetify-extensions/main/toggleLyricsPlusFullscreen/toggleLyricsPlusFullscreen.js\",\"readmeURL\":\"https://raw.githubusercontent.com/TheGeeKing/spicetify-extensions/main/undefined\",\"stars\":7,\"lastUpdated\":\"2021-12-24T08:49:06Z\",\"created\":\"2021-10-02T10:25:40Z\"}","marketplace:installed:ohitstom/spicetify-extensions/volumePercentage/volumePercentage.js":"{\"manifest\":{\"name\":\"Volume Percentage\",\"description\":\"View/Modify volume percentage in a hoverable Tippy.\",\"preview\":\"volumePercentage/marketplace.png\",\"main\":\"volumePercentage/volumePercentage.js\",\"readme\":\"volumePercentage/README.md\",\"tags\":[\"minimal\",\"audio\"]},\"type\":\"extension\",\"title\":\"Volume Percentage\",\"subtitle\":\"View/Modify volume percentage in a hoverable Tippy.\",\"authors\":[{\"name\":\"ohitstom\",\"url\":\"https://github.com/ohitstom\"}],\"user\":\"ohitstom\",\"repo\":\"spicetify-extensions\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/ohitstom/spicetify-extensions/main/volumePercentage/marketplace.png\",\"extensionURL\":\"https://raw.githubusercontent.com/ohitstom/spicetify-extensions/main/volumePercentage/volumePercentage.js\",\"readmeURL\":\"https://raw.githubusercontent.com/ohitstom/spicetify-extensions/main/volumePercentage/README.md\",\"stars\":17,\"lastUpdated\":\"2024-03-08T13:39:47Z\",\"created\":\"2023-05-12T00:35:27Z\"}","marketplace:active-tab":"Extensions","marketplace:local-theme":"Hazy","marketplace:installed:snippet:Fix-Listening-On":"{\"code\":\".Svg-presentation-essentialBase-small-icon-autoMirror {fill: var(--spice-text);} .TypeElement-mesto-textBase-type {color: var(--spice-text) !important;} .main-devicePicker-indicator {display: none !important;} .main-nowPlayingBar-container {height: 72px !important;} .main-connectBar-connectBar {position: absolute !important; align-items: center !important; top: 42px !important; height: 32px !important; align-self: center !important; background-color: transparent !important; width: 30% !important;}\",\"title\":\"Fix Listening On\",\"description\":\"Fix listening on for some themes that move it up or make the text not visible\",\"imageURL\":\"https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/assets/snippets/fix-listening-on.png\"}","marketplace:installed:CharlieS1103/spicetify-extensions/featureshuffle/featureshuffle.js":"{\"manifest\":{\"name\":\"Feature Shuffle\",\"description\":\"Spicetify extension to make a playlist based on another playlist's audio features\",\"preview\":\"featureshuffle/featureshuffle.png\",\"main\":\"featureshuffle/featureshuffle.js\",\"readme\":\"featureshuffle/README.md\"},\"type\":\"extension\",\"title\":\"Feature Shuffle\",\"subtitle\":\"Spicetify extension to make a playlist based on another playlist's audio features\",\"authors\":[{\"name\":\"CharlieS1103\",\"url\":\"https://github.com/CharlieS1103\"}],\"user\":\"CharlieS1103\",\"repo\":\"spicetify-extensions\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/CharlieS1103/spicetify-extensions/main/featureshuffle/featureshuffle.png\",\"extensionURL\":\"https://raw.githubusercontent.com/CharlieS1103/spicetify-extensions/main/featureshuffle/featureshuffle.js\",\"readmeURL\":\"https://raw.githubusercontent.com/CharlieS1103/spicetify-extensions/main/featureshuffle/README.md\",\"stars\":510,\"lastUpdated\":\"2023-10-01T23:12:12Z\",\"created\":\"2021-07-09T23:11:13Z\"}","marketplace:installed:TechShivvy/spicetify-extensions/play-random/playRandom.mjs":"{\"manifest\":{\"name\":\"Play a Random Song\",\"description\":\"Click and let the app play a random track for you.\",\"main\":\"play-random/playRandom.mjs\",\"readme\":\"play-random/README.md\",\"preview\":\"play-random/playRandom.jpg\",\"authors\":[{\"name\":\"TechShivvy\",\"url\":\"https://github.com/TechShivvy\"}],\"tags\":[\"random\",\"song\"]},\"type\":\"extension\",\"title\":\"Play a Random Song\",\"subtitle\":\"Click and let the app play a random track for you.\",\"authors\":[{\"name\":\"TechShivvy\",\"url\":\"https://github.com/TechShivvy\"}],\"user\":\"TechShivvy\",\"repo\":\"spicetify-extensions\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/TechShivvy/spicetify-extensions/main/play-random/playRandom.jpg\",\"extensionURL\":\"https://raw.githubusercontent.com/TechShivvy/spicetify-extensions/main/play-random/playRandom.mjs\",\"readmeURL\":\"https://raw.githubusercontent.com/TechShivvy/spicetify-extensions/main/play-random/README.md\",\"stars\":8,\"lastUpdated\":\"2024-01-01T13:58:46Z\",\"created\":\"2023-09-30T07:39:51Z\"}","marketplace:installed:ohitstom/spicetify-extensions/playbarClock/playbarClock.js":"{\"manifest\":{\"name\":\"Playbar Clock\",\"description\":\"Current system time on the playbar, with display options.\",\"preview\":\"playbarClock/marketplace.png\",\"main\":\"playbarClock/playbarClock.js\",\"readme\":\"playbarClock/README.md\",\"tags\":[\"time\",\"utility\"]},\"type\":\"extension\",\"title\":\"Playbar Clock\",\"subtitle\":\"Current system time on the playbar, with display options.\",\"authors\":[{\"name\":\"ohitstom\",\"url\":\"https://github.com/ohitstom\"}],\"user\":\"ohitstom\",\"repo\":\"spicetify-extensions\",\"branch\":\"main\",\"imageURL\":\"https://raw.githubusercontent.com/ohitstom/spicetify-extensions/main/playbarClock/marketplace.png\",\"extensionURL\":\"https://raw.githubusercontent.com/ohitstom/spicetify-extensions/main/playbarClock/playbarClock.js\",\"readmeURL\":\"https://raw.githubusercontent.com/ohitstom/spicetify-extensions/main/playbarClock/README.md\",\"stars\":17,\"lastUpdated\":\"2024-03-08T13:39:47Z\",\"created\":\"2023-05-12T00:35:27Z\"}","marketplace:installed:snippet:Smooth-Reveal-Playlist-Gradient":"{\"code\":\".main-entityHeader-overlay,\\n.main-actionBarBackground-background,\\n.main-entityHeader-overlay,\\n.main-entityHeader-backgroundColor {\\n  -webkit-transition: 3s;\\n}\",\"title\":\"Smooth Reveal Playlist Gradient\",\"description\":\"Reveals the playlist gradient header gradient with a fade in effect\",\"imageURL\":\"https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/assets/snippets/smooth-playlist-reveal-gradient.png\"}"}</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 May 2024, 04:41:31 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 May 2024, 06:21:56 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
